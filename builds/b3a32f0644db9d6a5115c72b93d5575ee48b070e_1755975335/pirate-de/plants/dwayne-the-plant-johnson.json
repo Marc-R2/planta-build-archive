@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:PBxj2Zerg7ksfMgKFeWg3q",
+  "slug": "dwayne-the-plant-johnson",
+  "names": {
+    "custom": "Dwayne `the plant` Johnson",
+    "scientific": "Persea americana"
+  },
+  "health": null,
+  "size": 35,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/Wp0DGfL0TCyprzrLkVU-6A.webp",
+    "lastUpdated": "2025-08-10T10:50:08.168Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-21T08:14:49.263Z",
+      "completedMillis": 1755764089263,
+      "next": "2025-09-08T08:00:00.000Z",
+      "nextMillis": 1757318400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-30T08:00:00.000Z",
+      "nextMillis": 1756540800000
+    },
+    "repotting": {
+      "completed": "2025-05-10T08:00:00.000Z",
+      "completedMillis": 1746864000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-08T08:00:00.000Z",
+      "nextMillis": 1762588800000
+    },
+    "progressUpdate": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-28T08:00:00.000Z",
+      "nextMillis": 1756368000000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-25T08:00:00.000Z",
+      "nextMillis": 1756108800000
+    }
+  }
+}
