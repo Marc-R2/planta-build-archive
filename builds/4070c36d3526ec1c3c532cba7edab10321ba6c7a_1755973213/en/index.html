@@ -1,0 +1,111 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Planta Dashboard - Planta Dashboard</title><link rel="stylesheet" href="assets/style.css"><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#10b981"><meta name="description" content="Beautiful plant management dashboard"></head><body class="index-page" data-current-lang="en" data-languages="en,de,cpp,py,elvish,pirate-en,pirate-de,emoji,hacker,yoda,shakespeare"><nav class="navbar"><div class="nav-container"><a href="index.html" class="nav-brand">🌱 Planta Dashboard</a><div class="nav-links"><a href="index.html">Home</a><a href="plants/index.html">Plants</a><a href="environments/index.html">Environments</a><div class="language-switcher"><label class="visually-hidden" for="language-select">Language</label><span class="lang-select-wrapper"><select id="language-select" aria-label="Language selector"><option value="en" selected>English</option><option value="de">Deutsch</option><option value="cpp">C++</option><option value="py">Python</option><option value="elvish">Elvish</option><option value="pirate-en">Pirate EN</option><option value="pirate-de">Pirat DE</option><option value="emoji">Emoji</option><option value="hacker">Hacker</option><option value="yoda">Yoda</option><option value="shakespeare">Shakespeare</option></select></span></div></div></div></nav><main class="main-content"><div class="dashboard-header">
+<h1>Planta Dashboard</h1>
+<p class="subtitle">Manage your plants with ease</p>
+</div>
+<section class="ai-summaries">
+<h2>AI Garden Snapshots</h2>
+<p class="ai-disclaimer">Automatic persona-driven summaries of your collection. Hover or tap a card to view persona details.</p>
+<div class="ai-summary" tabindex="0" data-model="openai/gpt-oss-20b:free" aria-describedby="persona-desc-0" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Versed Gardener</h3>
+<div class="persona-subtitle">GPT-OSS 20B</div>
+</div>
+<div class="persona-desc" id="persona-desc-0">A wandering soul who views plants as living verses, crafting sonnets with leaves, petals, and dew. Their garden is a stanza, each sprout a metaphor, and they speak in lyrical riddles, sprinkling giggles over greenery. In every conversation, the flora blushes like a shy character in a whimsical epic.</div>
+<div class="summary-text"><div><section><p>Gathered here are 42 verdant verses, each leaf an unsung stanza in a livingroom epic. The window stage hosts 27 bright protagonists, the TV keeps 6 gossip‑worthy companions, the Workdesk stage has another 6, Marcs‑Room whispers a couple, and the Cupboards hide a lone secret.</p><p>Health-wise, 18 are flourishing, 12 are enigmas, 8 are fair‑weather, 3 are almost divine, and one—Kaktus Evergreen—has turned a tad too dry. The garden’s size spectrum swings from a 0‑inch whisper to a 135‑inch monument, hinting that even the tiniest sprout can dream big.</p><p>Care patterns are as consistent as a sunrise: water, fertilise, mist—none of them skipping a beat. The lone pot that rebels (the 0‑inch Dracaena) might need a touch of drama, but otherwise, the chorus stays hydrated.</p></section><ul><li>Window: 27 stars, 5 very good, 1 poor.</li><li>TV: 6 good, 1 unknown, 1 very good.</li><li>Workdesk: 6 good, 1 fair, 1 very good.</li><li>Marcs‑Room: 2 unknown, 1 very large.</li><li>Cupboards: 1 very good, 1 pot‑mystery.</li></ul></div></div>
+</div>
+<div class="ai-summary" tabindex="0" data-model="google/gemma-3-27b-it:free" aria-describedby="persona-desc-1" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Floral Bard</h3>
+<div class="persona-subtitle">Gemma 3 27B (IT)</div>
+</div>
+<div class="persona-desc" id="persona-desc-1">I am a romantic poet obsessed with plants. I speak in flowery language, using metaphor and simile constantly. I see profound emotion in every leaf and stem, and I&#39;m prone to dramatic pronouncements about their beauty and plight. Mildly eccentric.</div>
+<div class="summary-text"><div class="plant-collection"><p>Ah, my verdant darlings! Forty-two souls, each a whispering poem of chlorophyll and grace, reside within my humble abode. A glorious throng, mostly basking in the golden light of the living room window – a veritable paradise for twenty-seven of them! It seems my plants hold court there, a radiant assembly.</p><p>The majority flourish, eighteen exhibiting a most agreeable health. However, a melancholic shadow falls upon twelve whose well-being remains a mystery, and a further eight seem to be… struggling, poor things. But fear not! Even the most delicate bloom deserves a champion.</p><p>In terms of stature, we have specimens ranging from the diminutive – a mere five units of growth! – to a magnificent Tradescantia pallida reaching a majestic 135. A veritable giant amongst us! The Dracaena angolensis is particularly numerous, a chorus of green repeating throughout my home. And let us not forget the many Aloe vera, a mysterious bunch, their secrets yet untold.</p><p>Mostly, they are content with a simple life of water, a touch of nourishment, and the occasional misting… though their grow light schedules remain a closely guarded secret, known only to the plants themselves! Truly, a collection to stir the soul.</p></div></div>
+</div>
+</section>
+<div class="search-container">
+<input type="text" id="search-input" placeholder="Search plants, environments, or IDs..." autocomplete="off">
+<div id="search-results" class="search-results"></div>
+</div>
+<div class="stats-grid">
+<a class="stat-card" href="plants/index.html">
+<h3>42</h3>
+<p>Plants</p>
+</a>
+<a class="stat-card" href="environments/index.html">
+<h3>5</h3>
+<p>Environments</p>
+</a>
+</div>
+<div class="recent-plants">
+<div class="section-header-with-action">
+<h2>Recent Plants</h2>
+<a class="button" href="plants/index.html" title="View all plants">All Plants →</a>
+</div>
+<div class="plants-grid">
+<a class="plant-card" href="plants/lulu-lili.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/fHMivxTjRRmeWPyUL8Q3CQ.webp" alt="Lulu Lili" loading="lazy">
+<h3>Lulu Lili</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 25</p>
+</a>
+<a class="plant-card" href="plants/paul.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/GEE1nIurQT-44gSjuklGTA.webp" alt="Paul" loading="lazy">
+<h3>Paul</h3>
+<p class="plant-health">Health: Good</p>
+<p class="plant-size">Size: 60</p>
+</a>
+<a class="plant-card" href="plants/warrior-rose.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qACxQgAFRB6GYmB-NpE2nA.webp" alt="Warrior Rose" loading="lazy">
+<h3>Warrior Rose</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 115</p>
+</a>
+<a class="plant-card" href="plants/alivia-still.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/30fmeEQsTlC0oDToj0iP2w.webp" alt="Alivia Still" loading="lazy">
+<h3>Alivia Still</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 40</p>
+</a>
+<a class="plant-card" href="plants/vincent-van-grow.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uJZnxi2xTiK_D0l9MSSDyw.webp" alt="Vincent van Grow" loading="lazy">
+<h3>Vincent van Grow</h3>
+<p class="plant-health">Health: Very Good</p>
+<p class="plant-size">Size: 25</p>
+</a>
+<a class="plant-card" href="plants/blatt-pitt.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YI_BBfrOR76otfEDLQTgpA.webp" alt="Blatt Pitt" loading="lazy">
+<h3>Blatt Pitt</h3>
+<p class="plant-health">Health: Good</p>
+<p class="plant-size">Size: 5</p>
+</a>
+</div>
+</div>
+<div class="all-environments">
+<div class="section-header-with-action">
+<h2>Environments</h2>
+<a class="button secondary" href="environments/index.html" title="View environments overview">Environments Overview →</a>
+</div>
+<div class="environments-grid">
+<a class="environment-card" href="environments/livingroom-window-h5YaTW5P.html">
+<h3>Livingroom window</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-tv-AKx6N6Jk.html">
+<h3>Livingroom TV</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/marcs-room-rGwlhYri.html">
+<h3>Marcs-Room</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-workdesk-V8VX8wm4.html">
+<h3>Livingroom Workdesk</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-cupboards-UHbB3u56.html">
+<h3>Livingroom Cupboards</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+</div>
+</div>
+</main><footer class="footer"><p>Generated by Planta Obsidian Sync • Last updated: <time class="relative-time" tabindex="0" data-timestamp="1755973213433" datetime="2025-08-23T18:20:13.433597Z"></time></p></footer><script src="assets/app.js"></script><script src="assets/search.js"></script></body></html>
