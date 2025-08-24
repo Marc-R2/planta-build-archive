@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:G9GZhCnYHXKz9OX0DOv7mZ",
+  "slug": "ma-ana",
+  "names": {
+    "custom": "Mañana",
+    "scientific": "Scindapsus pictus"
+  },
+  "health": "good",
+  "size": 20,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/cIXUw49aRLWse0KUnSK8MA.webp",
+    "lastUpdated": "2025-08-09T17:27:05.599Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-20T07:10:41.829Z",
+      "completedMillis": 1755673841829,
+      "next": "2025-09-07T08:00:00.000Z",
+      "nextMillis": 1757232000000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-29T08:00:00.000Z",
+      "nextMillis": 1756454400000
+    },
+    "repotting": {
+      "completed": "2025-07-07T08:00:00.000Z",
+      "completedMillis": 1751875200000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-10T10:33:45.975Z",
+      "completedMillis": 1754822025975,
+      "next": "2025-08-24T08:00:00.000Z",
+      "nextMillis": 1756022400000
+    },
+    "misting": {
+      "completed": "2025-08-24T06:37:28.582Z",
+      "completedMillis": 1756017448582,
+      "next": "2025-08-31T07:00:00.000Z",
+      "nextMillis": 1756623600000
+    }
+  }
+}
