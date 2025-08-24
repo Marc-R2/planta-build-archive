@@ -1,0 +1,415 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:J3r2E0RHbkzuHef5Oxfk56",
+      "slug": "aloe-vera-f5Oxfk56",
+      "names": {
+        "custom": null,
+        "scientific": "Aloe vera"
+      },
+      "health": null,
+      "size": 50,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/L1fPvhguSlCPA03w2vlW3w.webp",
+        "lastUpdated": "2025-08-10T11:02:59.151Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-07T08:00:00.000Z",
+          "completedMillis": 1754553600000,
+          "next": "2025-09-03T08:00:00.000Z",
+          "nextMillis": 1756886400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-03T08:00:00.000Z",
+          "nextMillis": 1759478400000
+        },
+        "repotting": {
+          "completed": "2024-08-10T08:00:00.000Z",
+          "completedMillis": 1723276800000,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-02-06T08:00:00.000Z",
+          "nextMillis": 1770364800000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-23T08:00:00.000Z",
+          "nextMillis": 1758614400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:OaJWkOhYaOi5iw96l6iX70",
+      "slug": "mira-madrigal",
+      "names": {
+        "custom": "Mira Madrigal",
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "fair",
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/ZP9RsYuuTZeFN_DgW6jjIg.webp",
+        "lastUpdated": "2025-08-10T11:07:16.566Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-22T07:01:08.187Z",
+          "completedMillis": 1755846068187,
+          "next": "2025-09-03T07:00:00.000Z",
+          "nextMillis": 1756882800000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "repotting": {
+          "completed": "2024-08-10T08:00:00.000Z",
+          "completedMillis": 1723276800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-10T11:13:45.086Z",
+          "completedMillis": 1754824425086,
+          "next": "2025-09-03T08:00:00.000Z",
+          "nextMillis": 1756886400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:wMMKx83oItA3FMV3V9kpvI",
+      "slug": "ella-vollmer",
+      "names": {
+        "custom": "Ella Vollmer",
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "good",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/s7Sub7E8TaKo4NoWiCZ01Q.webp",
+        "lastUpdated": "2025-08-10T11:13:32.579Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-19T10:47:20.180Z",
+          "completedMillis": 1755600440180,
+          "next": "2025-08-31T08:00:00.000Z",
+          "nextMillis": 1756627200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-19T08:00:00.000Z",
+          "nextMillis": 1758268800000
+        },
+        "repotting": {
+          "completed": "2025-08-19T10:46:04.114Z",
+          "completedMillis": 1755600364114,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T10:47:06.303Z",
+          "completedMillis": 1755600426303,
+          "next": "2025-09-12T08:00:00.000Z",
+          "nextMillis": 1757664000000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:e5EV6HRKaNravrywXrChJR",
+      "slug": "chlorophytum-comosum-ywXrChJR",
+      "names": {
+        "custom": null,
+        "scientific": "Chlorophytum comosum"
+      },
+      "health": "good",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/5RWXSuzHTrq7TlmhJxfr_w.webp",
+        "lastUpdated": "2025-08-10T11:25:54.484Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-17T11:08:25.553Z",
+          "completedMillis": 1755428905553,
+          "next": "2025-08-27T08:00:00.000Z",
+          "nextMillis": 1756281600000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-06T08:00:00.000Z",
+          "nextMillis": 1757145600000
+        },
+        "repotting": {
+          "completed": "2025-05-10T08:00:00.000Z",
+          "completedMillis": 1746864000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-10T11:27:07.404Z",
+          "completedMillis": 1754825227404,
+          "next": "2025-08-30T08:00:00.000Z",
+          "nextMillis": 1756540800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-08-25T08:00:00.000Z",
+          "nextMillis": 1756108800000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:J9l409QAVG0YPdjlMys9zp",
+      "slug": "kalanchoe-blossfeldiana-jlMys9zp",
+      "names": {
+        "custom": null,
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "good",
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/ffFT5uqERruyt1c-GtFmKw.webp",
+        "lastUpdated": "2025-08-10T11:42:59.691Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-22T07:01:36.311Z",
+          "completedMillis": 1755846096311,
+          "next": "2025-09-03T07:00:00.000Z",
+          "nextMillis": 1756882800000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "repotting": {
+          "completed": "2025-05-10T08:00:00.000Z",
+          "completedMillis": 1746864000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-10T11:43:54.062Z",
+          "completedMillis": 1754826234062,
+          "next": "2025-09-03T08:00:00.000Z",
+          "nextMillis": 1756886400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:yXHCdA5WgZqffUzPiJqemH",
+      "slug": "schlumbergera-truncata-zPiJqemH",
+      "names": {
+        "custom": null,
+        "scientific": "Schlumbergera truncata"
+      },
+      "health": null,
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uCJSmqdaRBixN1OxKB9JxQ.webp",
+        "lastUpdated": "2025-08-19T11:26:50.592Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+        "name": "Livingroom Workdesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-workdesk-V8VX8wm4"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-16T08:00:00.000Z",
+          "completedMillis": 1755331200000,
+          "next": "2025-08-26T08:00:00.000Z",
+          "nextMillis": 1756195200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-09T08:00:00.000Z",
+          "nextMillis": 1757404800000
+        },
+        "repotting": {
+          "completed": "2025-07-19T08:00:00.000Z",
+          "completedMillis": 1752912000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-17T08:00:00.000Z",
+          "nextMillis": 1763366400000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-08T08:00:00.000Z",
+          "nextMillis": 1757318400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-08-26T08:00:00.000Z",
+          "nextMillis": 1756195200000
+        }
+      }
+    }
+  ],
+  "plantCount": 6,
+  "lang": "hacker"
+}

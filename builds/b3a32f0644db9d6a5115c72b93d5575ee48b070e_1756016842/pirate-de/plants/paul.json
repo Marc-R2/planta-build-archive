@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:lKrXM8w0Hp8TIaUAN4aGlx",
+  "slug": "paul",
+  "names": {
+    "custom": "Paul",
+    "scientific": "Selenicereus undatus"
+  },
+  "health": "good",
+  "size": 60,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/GEE1nIurQT-44gSjuklGTA.webp",
+    "lastUpdated": "2025-08-03T12:45:03.713Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "allPurposePottingMix",
+      "size": 12,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-20T07:14:48.322Z",
+      "completedMillis": 1755674088322,
+      "next": "2025-09-07T08:00:00.000Z",
+      "nextMillis": 1757232000000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-29T08:00:00.000Z",
+      "nextMillis": 1756454400000
+    },
+    "repotting": {
+      "completed": "2025-05-02T08:00:00.000Z",
+      "completedMillis": 1746172800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-21T09:18:25.949Z",
+      "completedMillis": 1755767905949,
+      "next": "2025-09-08T08:00:00.000Z",
+      "nextMillis": 1757318400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-25T08:00:00.000Z",
+      "nextMillis": 1756108800000
+    }
+  }
+}

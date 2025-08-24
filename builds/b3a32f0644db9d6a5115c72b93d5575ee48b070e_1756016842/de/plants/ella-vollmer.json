@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:wMMKx83oItA3FMV3V9kpvI",
+  "slug": "ella-vollmer",
+  "names": {
+    "custom": "Ella Vollmer",
+    "scientific": "Kalanchoe blossfeldiana"
+  },
+  "health": "good",
+  "size": 30,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/s7Sub7E8TaKo4NoWiCZ01Q.webp",
+    "lastUpdated": "2025-08-10T11:13:32.579Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-19T10:47:20.180Z",
+      "completedMillis": 1755600440180,
+      "next": "2025-08-31T08:00:00.000Z",
+      "nextMillis": 1756627200000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-19T08:00:00.000Z",
+      "nextMillis": 1758268800000
+    },
+    "repotting": {
+      "completed": "2025-08-19T10:46:04.114Z",
+      "completedMillis": 1755600364114,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-19T10:47:06.303Z",
+      "completedMillis": 1755600426303,
+      "next": "2025-09-12T08:00:00.000Z",
+      "nextMillis": 1757664000000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
