@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:yXHCdA5WgZqffUzPiJqemH",
+  "slug": "schlumbergera-truncata-zPiJqemH",
+  "names": {
+    "custom": null,
+    "scientific": "Schlumbergera truncata"
+  },
+  "health": null,
+  "size": 25,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uCJSmqdaRBixN1OxKB9JxQ.webp",
+    "lastUpdated": "2025-08-19T11:26:50.592Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-16T08:00:00.000Z",
+      "completedMillis": 1755331200000,
+      "next": "2025-08-26T08:00:00.000Z",
+      "nextMillis": 1756195200000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-09T08:00:00.000Z",
+      "nextMillis": 1757404800000
+    },
+    "repotting": {
+      "completed": "2025-07-19T08:00:00.000Z",
+      "completedMillis": 1752912000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-17T08:00:00.000Z",
+      "nextMillis": 1763366400000
+    },
+    "progressUpdate": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-08T08:00:00.000Z",
+      "nextMillis": 1757318400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-26T08:00:00.000Z",
+      "nextMillis": 1756195200000
+    }
+  }
+}
