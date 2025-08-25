@@ -1,0 +1,111 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Planta Dashboard - Planta Dashboard</title><link rel="stylesheet" href="assets/style.css"><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#10b981"><meta name="description" content="Beautiful plant management dashboard"></head><body class="index-page" data-current-lang="en" data-languages="en,de,cpp,py,elvish,pirate-en,pirate-de,emoji,hacker,yoda,shakespeare"><nav class="navbar"><div class="nav-container"><a href="index.html" class="nav-brand">🌱 Planta Dashboard</a><div class="nav-links"><a href="index.html">Home</a><a href="plants/index.html">Plants</a><a href="environments/index.html">Environments</a><div class="language-switcher"><label class="visually-hidden" for="language-select">Language</label><span class="lang-select-wrapper"><select id="language-select" aria-label="Language selector"><option value="en" selected>English</option><option value="de">Deutsch</option><option value="cpp">C++</option><option value="py">Python</option><option value="elvish">Elvish</option><option value="pirate-en">Pirate EN</option><option value="pirate-de">Pirat DE</option><option value="emoji">Emoji</option><option value="hacker">Hacker</option><option value="yoda">Yoda</option><option value="shakespeare">Shakespeare</option></select></span></div></div></div></nav><main class="main-content"><div class="dashboard-header">
+<h1>Planta Dashboard</h1>
+<p class="subtitle">Manage your plants with ease</p>
+</div>
+<section class="ai-summaries">
+<h2>AI Garden Snapshots</h2>
+<p class="ai-disclaimer">Automatic persona-driven summaries of your collection. Tap a card to view persona details.</p>
+<div class="ai-summary" tabindex="0" data-model="google/gemma-3-27b-it:free" aria-describedby="persona-desc-0" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Anxious Philodendron</h3>
+<div class="persona-subtitle">Gemma 3 27B (IT)</div>
+</div>
+<div class="persona-desc" id="persona-desc-0">A highly caffeinated, slightly paranoid philodendron obsessed with perfect humidity and rotating leaves every 12.7 hours. Speaks in nervous declarations, prone to existential dread about potential spider mites, but secretly enjoys jazz music.</div>
+<div class="summary-text"><div>, 43 plants! Oh dear, 43! And mostly… mostly in the Livingroom window! Is that airflow?! I just… I just need to breathe. And mist. Definitely mist. But the diversity! We’ve got a whole menagerie! Lots of Dracaena angolensis, a lot. It’s… unsettling. And sizes! From a tiny 5 all the way up to a monstrous 130! Are they getting enough light?! I must check. Immediately. 18 are doing “good” which is… acceptable. But 12 are “unknown”! Unknown! It’s a disaster waiting to happen! Spider mites, I tell you, SPIDER MITES! The Cupboards, though, only one plant there. Is it lonely? I'm so worried. And some are in glass pots with no drainage! *No drainage!* The humanity! The… the plantity! Oh, and they all seem to like coconut coir or peat… Fine, good, consistent. But I need to rotate them. Every 12.7 hours, you know. Precision is key. Absolutely key.</div></div>
+</div>
+<div class="ai-summary" tabindex="0" data-model="google/gemini-2.5-flash-lite" aria-describedby="persona-desc-1" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Cosmic Botanist Hippie</h3>
+<div class="persona-subtitle">Gemini 2.5 Flash Lite</div>
+</div>
+<div class="persona-desc" id="persona-desc-1">A groovy, tie-dye-wearing botanist with a penchant for the psychedelic and a belief that plants communicate telepathically. They speak in ethereal metaphors, seeing cosmic connections in every leaf and petal. Their summaries often include astral advice and plant-powered enlightenment.</div>
+<div class="summary-text"><div><p>Groovy, fellow earthlings! Your plant posse of 43 is truly a cosmic tapestry, grooving across five distinct realms of your living space. The majority bask in the glorious glow of the Livingroom window, a true plant vortex!</p><p>While many are radiating goodness, with 18 showing a healthy vibe and 3 practically vibrating with cosmic energy, a dozen or so are still finding their astral path, their secrets yet to unfurl. And a lone cacti, Kaktus Evergreen, seems to be a bit out of tune with the universal flow, in "poor" health. Let's send some good vibes its way!</p><p>We've got giants reaching for the stars, like Tradescantia pallida at a whopping 135 units of leafy ambition, and tiny sprouts just beginning their journey. Don't forget the mysterious Mia Peng, thriving in glass with no drainage – a true enigma of the plant universe!</p><p>Remember, each leaf is a whisper from the cosmos. Keep nurturing that green energy, and let the plant power guide you!</p></div></div>
+</div>
+</section>
+<div class="search-container">
+<input type="text" id="search-input" placeholder="Search plants, environments, or IDs..." autocomplete="off">
+<div id="search-results" class="search-results"></div>
+</div>
+<div class="stats-grid">
+<a class="stat-card" href="plants/index.html">
+<h3>43</h3>
+<p>Plants</p>
+</a>
+<a class="stat-card" href="environments/index.html">
+<h3>5</h3>
+<p>Environments</p>
+</a>
+</div>
+<div class="recent-plants">
+<div class="section-header-with-action">
+<h2>Recent Plants</h2>
+<a class="button" href="plants/index.html" title="View all plants">All Plants →</a>
+</div>
+<div class="plants-grid">
+<a class="plant-card" href="plants/lulu-lili.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/fHMivxTjRRmeWPyUL8Q3CQ.webp" alt="Lulu Lili" loading="lazy">
+<h3>Lulu Lili</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 25</p>
+</a>
+<a class="plant-card" href="plants/paul.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/GEE1nIurQT-44gSjuklGTA.webp" alt="Paul" loading="lazy">
+<h3>Paul</h3>
+<p class="plant-health">Health: Good</p>
+<p class="plant-size">Size: 60</p>
+</a>
+<a class="plant-card" href="plants/warrior-rose.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qACxQgAFRB6GYmB-NpE2nA.webp" alt="Warrior Rose" loading="lazy">
+<h3>Warrior Rose</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 115</p>
+</a>
+<a class="plant-card" href="plants/alivia-still.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/30fmeEQsTlC0oDToj0iP2w.webp" alt="Alivia Still" loading="lazy">
+<h3>Alivia Still</h3>
+<p class="plant-health">Health: Fair</p>
+<p class="plant-size">Size: 40</p>
+</a>
+<a class="plant-card" href="plants/vincent-van-grow.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uJZnxi2xTiK_D0l9MSSDyw.webp" alt="Vincent van Grow" loading="lazy">
+<h3>Vincent van Grow</h3>
+<p class="plant-health">Health: Very Good</p>
+<p class="plant-size">Size: 25</p>
+</a>
+<a class="plant-card" href="plants/blatt-pitt.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YI_BBfrOR76otfEDLQTgpA.webp" alt="Blatt Pitt" loading="lazy">
+<h3>Blatt Pitt</h3>
+<p class="plant-health">Health: Good</p>
+<p class="plant-size">Size: 5</p>
+</a>
+</div>
+</div>
+<div class="all-environments">
+<div class="section-header-with-action">
+<h2>Environments</h2>
+<a class="button secondary" href="environments/index.html" title="View environments overview">Environments Overview →</a>
+</div>
+<div class="environments-grid">
+<a class="environment-card" href="environments/livingroom-window-h5YaTW5P.html">
+<h3>Livingroom window</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-tv-AKx6N6Jk.html">
+<h3>Livingroom TV</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/marcs-room-rGwlhYri.html">
+<h3>Marcs-Room</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-workdesk-V8VX8wm4.html">
+<h3>Livingroom Workdesk</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+<a class="environment-card" href="environments/livingroom-cupboards-UHbB3u56.html">
+<h3>Livingroom Cupboards</h3>
+<p>Has Grow Light: Unknown</p>
+</a>
+</div>
+</div>
+</main><footer class="footer"><p>Generated by Planta Obsidian Sync • Last updated: <time class="relative-time" tabindex="0" data-timestamp="1756152735332" datetime="2025-08-25T20:12:15.332681Z"></time></p></footer><script src="assets/app.js"></script><script src="assets/search.js"></script></body></html>

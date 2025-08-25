@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:e5EV6HRKaNravrywXrChJR",
+  "slug": "chlorophytum-comosum-ywXrChJR",
+  "names": {
+    "custom": null,
+    "scientific": "Chlorophytum comosum"
+  },
+  "health": "good",
+  "size": 30,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/5RWXSuzHTrq7TlmhJxfr_w.webp",
+    "lastUpdated": "2025-08-10T11:25:54.484Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 12,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-17T11:08:25.553Z",
+      "completedMillis": 1755428905553,
+      "next": "2025-08-27T08:00:00.000Z",
+      "nextMillis": 1756281600000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-06T08:00:00.000Z",
+      "nextMillis": 1757145600000
+    },
+    "repotting": {
+      "completed": "2025-05-10T08:00:00.000Z",
+      "completedMillis": 1746864000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-10T11:27:07.404Z",
+      "completedMillis": 1754825227404,
+      "next": "2025-08-30T08:00:00.000Z",
+      "nextMillis": 1756540800000
+    },
+    "misting": {
+      "completed": "2025-08-25T08:24:10.590Z",
+      "completedMillis": 1756110250590,
+      "next": "2025-09-01T07:00:00.000Z",
+      "nextMillis": 1756710000000
+    }
+  }
+}
