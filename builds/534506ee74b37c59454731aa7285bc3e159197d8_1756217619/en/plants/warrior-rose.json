@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:4UB6ys5uTYdNO2eivnwxFq",
+  "slug": "warrior-rose",
+  "names": {
+    "custom": "Warrior Rose",
+    "scientific": "Dracaena reflexa var. angustifolia"
+  },
+  "health": "fair",
+  "size": 115,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qACxQgAFRB6GYmB-NpE2nA.webp",
+    "lastUpdated": "2025-08-02T18:39:20.790Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 25,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-20T07:15:45.143Z",
+      "completedMillis": 1755674145143,
+      "next": "2025-08-29T08:00:00.000Z",
+      "nextMillis": 1756454400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-09T08:00:00.000Z",
+      "nextMillis": 1757404800000
+    },
+    "repotting": {
+      "completed": "2025-05-02T08:00:00.000Z",
+      "completedMillis": 1746172800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-10-31T08:00:00.000Z",
+      "nextMillis": 1761897600000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-21T09:20:21.837Z",
+      "completedMillis": 1755768021837,
+      "next": "2025-09-08T08:00:00.000Z",
+      "nextMillis": 1757318400000
+    },
+    "misting": {
+      "completed": "2025-08-25T08:25:54.108Z",
+      "completedMillis": 1756110354108,
+      "next": "2025-09-01T07:00:00.000Z",
+      "nextMillis": 1756710000000
+    }
+  }
+}

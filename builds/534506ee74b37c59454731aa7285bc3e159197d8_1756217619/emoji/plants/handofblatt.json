@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:VnfVKad6oalT8uBfaturk3",
+  "slug": "handofblatt",
+  "names": {
+    "custom": "HandOfBlatt",
+    "scientific": "Chlorophytum comosum"
+  },
+  "health": "good",
+  "size": 35,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/mNWijnDvR7q_JcY5Fyi8vg.webp",
+    "lastUpdated": "2025-08-07T08:19:24.190Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potOriginalPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 7,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-17T11:11:06.668Z",
+      "completedMillis": 1755429066668,
+      "next": "2025-08-27T07:00:00.000Z",
+      "nextMillis": 1756278000000
+    },
+    "fertilizing": {
+      "completed": "2025-08-22T07:02:16.864Z",
+      "completedMillis": 1755846136864,
+      "next": "2025-09-01T07:00:00.000Z",
+      "nextMillis": 1756710000000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-21T08:18:38.510Z",
+      "completedMillis": 1755764318510,
+      "next": "2025-09-04T08:00:00.000Z",
+      "nextMillis": 1756972800000
+    },
+    "misting": {
+      "completed": "2025-08-23T12:19:16.046Z",
+      "completedMillis": 1755951556046,
+      "next": "2025-08-30T07:00:00.000Z",
+      "nextMillis": 1756537200000
+    }
+  }
+}

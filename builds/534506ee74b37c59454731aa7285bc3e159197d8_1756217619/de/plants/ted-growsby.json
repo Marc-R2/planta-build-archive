@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:o6VMfqYlBtfxDMfRymDywz",
+  "slug": "ted-growsby",
+  "names": {
+    "custom": "Ted Growsby",
+    "scientific": "Epipremnum aureum"
+  },
+  "health": "good",
+  "size": 130,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/q9_eYtoLQP-BT4w-mgT0dA.webp",
+    "lastUpdated": "2025-08-07T09:16:08.887Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-18T09:33:47.656Z",
+      "completedMillis": 1755509627656,
+      "next": "2025-08-27T08:00:00.000Z",
+      "nextMillis": 1756281600000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-05T08:00:00.000Z",
+      "nextMillis": 1757059200000
+    },
+    "repotting": {
+      "completed": "2025-05-04T08:00:00.000Z",
+      "completedMillis": 1746345600000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-02T08:00:00.000Z",
+      "nextMillis": 1762070400000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T08:10:48.794Z",
+      "completedMillis": 1756195848794,
+      "next": "2025-09-13T07:00:00.000Z",
+      "nextMillis": 1757746800000
+    },
+    "misting": {
+      "completed": "2025-08-23T12:18:21.919Z",
+      "completedMillis": 1755951501919,
+      "next": "2025-08-30T07:00:00.000Z",
+      "nextMillis": 1756537200000
+    }
+  }
+}
