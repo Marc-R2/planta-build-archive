@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:OaJWkOhYaOi5iw96l6iX70",
+  "slug": "mira-madrigal",
+  "names": {
+    "custom": "Mira Madrigal",
+    "scientific": "Kalanchoe blossfeldiana"
+  },
+  "health": "fair",
+  "size": 35,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/ZP9RsYuuTZeFN_DgW6jjIg.webp",
+    "lastUpdated": "2025-08-10T11:07:16.566Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 12,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-22T07:01:08.187Z",
+      "completedMillis": 1755846068187,
+      "next": "2025-09-03T07:00:00.000Z",
+      "nextMillis": 1756882800000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-19T07:00:00.000Z",
+      "nextMillis": 1758265200000
+    },
+    "repotting": {
+      "completed": "2024-08-10T08:00:00.000Z",
+      "completedMillis": 1723276800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-10T11:13:45.086Z",
+      "completedMillis": 1754824425086,
+      "next": "2025-09-03T08:00:00.000Z",
+      "nextMillis": 1756886400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
