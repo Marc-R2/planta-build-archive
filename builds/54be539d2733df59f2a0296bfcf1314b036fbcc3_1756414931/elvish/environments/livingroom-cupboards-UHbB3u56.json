@@ -1,0 +1,80 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+    "name": "Livingroom Cupboards",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-cupboards-UHbB3u56"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:LqsEmSJyotx17fcNId26XU",
+      "slug": "mike-growskowski",
+      "names": {
+        "custom": "Mike Growskowski",
+        "scientific": "Pilea peperomioides"
+      },
+      "health": "veryGood",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/lHk9XU5-SoiAILVsD04Ojw.webp",
+        "lastUpdated": "2025-08-19T11:20:42.115Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+        "name": "Livingroom Cupboards",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-cupboards-UHbB3u56"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-26T06:50:25.842Z",
+          "completedMillis": 1756191025842,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-05T07:00:00.000Z",
+          "nextMillis": 1757055600000
+        },
+        "repotting": {
+          "completed": "2025-05-19T08:00:00.000Z",
+          "completedMillis": 1747641600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-17T08:00:00.000Z",
+          "nextMillis": 1763366400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T11:21:42.188Z",
+          "completedMillis": 1755602502188,
+          "next": "2025-09-08T08:00:00.000Z",
+          "nextMillis": 1757318400000
+        },
+        "misting": {
+          "completed": "2025-08-26T06:54:17.463Z",
+          "completedMillis": 1756191257463,
+          "next": "2025-09-02T07:00:00.000Z",
+          "nextMillis": 1756796400000
+        }
+      }
+    }
+  ],
+  "plantCount": 1,
+  "lang": "elvish"
+}
