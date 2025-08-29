@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:2gWoBWTnADsnDyqhrVgAvG",
+  "slug": "gold-hans",
+  "names": {
+    "custom": "Gold Hans",
+    "scientific": "Kalanchoe blossfeldiana"
+  },
+  "health": "good",
+  "size": 10,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/Cel195T3SQKAB1cGLB7PIA.webp",
+    "lastUpdated": "2025-08-28T08:31:10.757Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hWK88xLND9u1H0uq2BK167",
+    "name": "Livingroom Sidedesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-sidedesk-uq2BK167"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "allPurposePottingMix",
+      "size": 10,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-28T07:00:00.000Z",
+      "completedMillis": 1756364400000,
+      "next": "2025-09-07T07:00:00.000Z",
+      "nextMillis": 1757228400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-29T07:00:00.000Z",
+      "nextMillis": 1759129200000
+    },
+    "repotting": {
+      "completed": "2025-08-21T07:00:00.000Z",
+      "completedMillis": 1755759600000,
+      "next": "2026-03-14T07:00:00.000Z",
+      "nextMillis": 1773471600000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-28T08:32:20.222Z",
+      "completedMillis": 1756369940222,
+      "next": "2025-09-17T07:00:00.000Z",
+      "nextMillis": 1758092400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
