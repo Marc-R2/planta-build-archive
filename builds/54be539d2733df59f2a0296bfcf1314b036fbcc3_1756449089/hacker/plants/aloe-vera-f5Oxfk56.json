@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:J3r2E0RHbkzuHef5Oxfk56",
+  "slug": "aloe-vera-f5Oxfk56",
+  "names": {
+    "custom": null,
+    "scientific": "Aloe vera"
+  },
+  "health": null,
+  "size": 50,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/L1fPvhguSlCPA03w2vlW3w.webp",
+    "lastUpdated": "2025-08-10T11:02:59.151Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-07T08:00:00.000Z",
+      "completedMillis": 1754553600000,
+      "next": "2025-09-03T08:00:00.000Z",
+      "nextMillis": 1756886400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-10-03T08:00:00.000Z",
+      "nextMillis": 1759478400000
+    },
+    "repotting": {
+      "completed": "2024-08-10T08:00:00.000Z",
+      "completedMillis": 1723276800000,
+      "next": "2027-03-14T08:00:00.000Z",
+      "nextMillis": 1805011200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-02-06T08:00:00.000Z",
+      "nextMillis": 1770364800000
+    },
+    "progressUpdate": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-23T08:00:00.000Z",
+      "nextMillis": 1758614400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}

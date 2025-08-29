@@ -1,0 +1,55 @@
+{
+  "lang": "pirate-en",
+  "type": "environments-index",
+  "environments": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+      "name": "Livingroom window",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "livingroom-window-h5YaTW5P",
+      "plantCount": 32
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+      "name": "Livingroom TV",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "livingroom-tv-AKx6N6Jk",
+      "plantCount": 6
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MeigcJ8wEL5BQirGwlhYri",
+      "name": "Marcs-Room",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "marcs-room-rGwlhYri",
+      "plantCount": 2
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+      "name": "Livingroom Workdesk",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "livingroom-workdesk-V8VX8wm4",
+      "plantCount": 6
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+      "name": "Livingroom Cupboards",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "livingroom-cupboards-UHbB3u56",
+      "plantCount": 1
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hWK88xLND9u1H0uq2BK167",
+      "name": "Livingroom Sidedesk",
+      "hasGrowLight": null,
+      "activeGrowLightHours": null,
+      "slug": "livingroom-sidedesk-uq2BK167",
+      "plantCount": 2
+    }
+  ],
+  "count": 6
+}
