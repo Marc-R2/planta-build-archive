@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:AaC6kf5BWdWYPpIxXGp90K",
+  "slug": "heidi-reichinfeld",
+  "names": {
+    "custom": "Heidi Reichinfeld",
+    "scientific": "Pilea peperomioides"
+  },
+  "health": "veryGood",
+  "size": 20,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/ZON0Oq8zQHSIeirVcHoe_w.webp",
+    "lastUpdated": "2025-08-07T08:31:03.251Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 10,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-20T07:11:33.606Z",
+      "completedMillis": 1755673893606,
+      "next": "2025-09-06T07:00:00.000Z",
+      "nextMillis": 1757142000000
+    },
+    "fertilizing": {
+      "completed": "2025-08-29T07:45:11.505Z",
+      "completedMillis": 1756453511505,
+      "next": "2025-09-15T07:00:00.000Z",
+      "nextMillis": 1757919600000
+    },
+    "repotting": {
+      "completed": "2025-05-07T08:00:00.000Z",
+      "completedMillis": 1746604800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-05T08:00:00.000Z",
+      "nextMillis": 1762329600000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T07:12:34.310Z",
+      "completedMillis": 1756192354310,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    },
+    "misting": {
+      "completed": "2025-08-30T07:59:39.648Z",
+      "completedMillis": 1756540779648,
+      "next": "2025-09-06T07:00:00.000Z",
+      "nextMillis": 1757142000000
+    }
+  }
+}
