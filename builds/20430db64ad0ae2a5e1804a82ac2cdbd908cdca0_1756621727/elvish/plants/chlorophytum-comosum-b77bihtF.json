@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:02nVPIyiHVSLXBb77bihtF",
+  "slug": "chlorophytum-comosum-b77bihtF",
+  "names": {
+    "custom": null,
+    "scientific": "Chlorophytum comosum"
+  },
+  "health": "good",
+  "size": 30,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/XuBXd8hdRP2Z2E7mPLUiYQ.webp",
+    "lastUpdated": "2025-08-10T11:29:15.304Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 10,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-24T06:41:08.001Z",
+      "completedMillis": 1756017668001,
+      "next": "2025-09-07T07:00:00.000Z",
+      "nextMillis": 1757228400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-08-31T07:00:00.000Z",
+      "nextMillis": 1756623600000
+    },
+    "repotting": {
+      "completed": "2025-05-10T08:00:00.000Z",
+      "completedMillis": 1746864000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T07:18:19.593Z",
+      "completedMillis": 1756192699593,
+      "next": "2025-09-09T07:00:00.000Z",
+      "nextMillis": 1757401200000
+    },
+    "misting": {
+      "completed": "2025-08-25T08:23:46.214Z",
+      "completedMillis": 1756110226214,
+      "next": "2025-09-01T07:00:00.000Z",
+      "nextMillis": 1756710000000
+    }
+  }
+}
