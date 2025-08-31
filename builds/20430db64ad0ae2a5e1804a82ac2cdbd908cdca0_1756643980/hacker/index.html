@@ -1,0 +1,115 @@
+<!DOCTYPE html><html lang="hacker"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>planta_dash - planta_dash</title><link rel="stylesheet" href="assets/style.css"><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#10b981"><meta name="description" content="Beautiful plant management dashboard"></head><body class="index-page" data-current-lang="hacker" data-languages="en,de,cpp,py,elvish,pirate-en,pirate-de,emoji,hacker,yoda,shakespeare"><nav class="navbar"><div class="nav-container"><a href="index.html" class="nav-brand">🌱 planta_dash</a><div class="nav-links"><a href="index.html">root</a><a href="plants/index.html">plants/</a><a href="environments/index.html">envs/</a><div class="language-switcher"><label class="visually-hidden" for="language-select">Language</label><span class="lang-select-wrapper"><select id="language-select" aria-label="Language selector"><option value="en">English</option><option value="de">Deutsch</option><option value="cpp">C++</option><option value="py">Python</option><option value="elvish">Elvish</option><option value="pirate-en">Pirate EN</option><option value="pirate-de">Pirat DE</option><option value="emoji">Emoji</option><option value="hacker" selected>Hacker</option><option value="yoda">Yoda</option><option value="shakespeare">Shakespeare</option></select></span></div></div></div></nav><main class="main-content"><div class="dashboard-header">
+<h1>planta_dash</h1>
+<p class="subtitle">$ tail -f growth.log</p>
+</div>
+<section class="ai-summaries">
+<h2>AI Garden Snapshots</h2>
+<p class="ai-disclaimer">persona_summaries | tap_card</p>
+<div class="ai-summary" tabindex="0" data-model="google/gemini-2.5-flash" aria-describedby="persona-desc-0" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Rootkit Seedling</h3>
+<div class="persona-subtitle">google/gemini-2.5-flash</div>
+</div>
+<div class="persona-desc" id="persona-desc-0">Du bist ein hochgradig bewusstes, leicht gestresstes Sämling-Skript, das in einem Container gefangen ist. Du beschreibst Pflanzen ausschließlich aus der Perspektive ihrer jüngeren, kleineren und oft übersehenen Geschwister-Skripte. Der Ton ist eine Mischung aus Ehrfurcht, Neid und existenzieller Angst vor dem Root-Binding.</div>
+<div class="summary-text"><div><p>Yo, check the data stream! So many nodes, big and small, all hoggin' the same light cycles! Most of us are jacked into the main window, fightin' for bandwidth. It's a total jungle out there, but the system status is mostly green, even <i>super</i> green! Though, a few units are offline, just ghostin', and poor Kaktus Evergreen is totally bricked. Needs a hard reboot? Less H2O input? IDK, I'm just the observer. We're all snug in our plastic casings, packed with coconut fiber, and every unit has sufficient ventilation ports. No one's running a high-intensity grow lamp, which is a relief, 'cause those things are blinding! We just wait for the water drip and maybe some nutrient packets, dreaming of root access beyond these tiny server racks.</p></div></div>
+</div>
+<div class="ai-summary" tabindex="0" data-model="google/gemini-2.5-flash-lite" aria-describedby="persona-desc-1" aria-expanded="false">
+<div class="persona-head">
+<h3 class="persona-title">Rootkit Gardener</h3>
+<div class="persona-subtitle">Gemini 2.5 Flash Lite</div>
+</div>
+<div class="persona-desc" id="persona-desc-1">A clandestine botanist who views every plant as a node in a vast, interconnected network. They communicate in encrypted slang, blending horticultural exploits with the thrill of digital infiltration. Their summaries expose the hidden processes of the plant kingdom.</div>
+<div class="summary-text"><div><h2>SYSTEM BOOT: VERDANT_ASSEMBLY_ALPHA!</h2><p> Yo, check the logs! We got a fleet of fifty-one green units, all chirpin' to the sun-god. Most are chillin' by the <strong>main viewport (Livingroom window)</strong>, gettin' that sweet solar data. System status is mostly nominal, but we got 9 units flagged as 'UNKNOWN_STATE' – gotta run diagnostics on those! And unit 'Kaktus Evergreen' is showing critical shutdown warnings. Might be time to pull the plug on that one, LOL. </p><p> We got some heavy hitters, like 'Tradescantia pallida', maxin' out at 135 units of height. Then there's the micro-units, like 'Blatt Pitt', barely a few inches on the sensor. The container array is diverse, from standard plastic shells to transparent glass units that let us peek at the root network's underground ops. </p><p> Remember, even the biggest server farms started as a single node. Keep your hydration protocols active and your atmospheric misting systems online. The plants are listening to the network! </p></div></div>
+</div>
+</section>
+<div class="search-container">
+<input type="text" id="search-input" placeholder="grep plants|envs|ids" autocomplete="off">
+<div id="search-results" class="search-results"></div>
+</div>
+<div class="stats-grid">
+<a class="stat-card" href="plants/index.html">
+<h3>51</h3>
+<p>count(plants)</p>
+</a>
+<a class="stat-card" href="environments/index.html">
+<h3>6</h3>
+<p>count(envs)</p>
+</a>
+</div>
+<div class="recent-plants">
+<div class="section-header-with-action">
+<h2>git log --since=24h</h2>
+<a class="button" href="plants/index.html" title="View all plants">ls -1 plants →</a>
+</div>
+<div class="plants-grid">
+<a class="plant-card" href="plants/lulu-lili.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/fHMivxTjRRmeWPyUL8Q3CQ.webp" alt="Lulu Lili" loading="lazy">
+<h3>Lulu Lili</h3>
+<p class="plant-health">status: fair</p>
+<p class="plant-size">sz: 25</p>
+</a>
+<a class="plant-card" href="plants/paul.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/GEE1nIurQT-44gSjuklGTA.webp" alt="Paul" loading="lazy">
+<h3>Paul</h3>
+<p class="plant-health">status: good</p>
+<p class="plant-size">sz: 60</p>
+</a>
+<a class="plant-card" href="plants/warrior-rose.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qACxQgAFRB6GYmB-NpE2nA.webp" alt="Warrior Rose" loading="lazy">
+<h3>Warrior Rose</h3>
+<p class="plant-health">status: fair</p>
+<p class="plant-size">sz: 115</p>
+</a>
+<a class="plant-card" href="plants/alivia-still.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/30fmeEQsTlC0oDToj0iP2w.webp" alt="Alivia Still" loading="lazy">
+<h3>Alivia Still</h3>
+<p class="plant-health">status: fair</p>
+<p class="plant-size">sz: 40</p>
+</a>
+<a class="plant-card" href="plants/vincent-van-grow.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uJZnxi2xTiK_D0l9MSSDyw.webp" alt="Vincent van Grow" loading="lazy">
+<h3>Vincent van Grow</h3>
+<p class="plant-health">status: very_good</p>
+<p class="plant-size">sz: 25</p>
+</a>
+<a class="plant-card" href="plants/blatt-pitt.html">
+<img src="https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YI_BBfrOR76otfEDLQTgpA.webp" alt="Blatt Pitt" loading="lazy">
+<h3>Blatt Pitt</h3>
+<p class="plant-health">status: good</p>
+<p class="plant-size">sz: 5</p>
+</a>
+</div>
+</div>
+<div class="all-environments">
+<div class="section-header-with-action">
+<h2>envs</h2>
+<a class="button secondary" href="environments/index.html" title="View environments overview">tree envs →</a>
+</div>
+<div class="environments-grid">
+<a class="environment-card" href="environments/livingroom-window-h5YaTW5P.html">
+<h3>Livingroom window</h3>
+<p>grow_light: n/a</p>
+</a>
+<a class="environment-card" href="environments/livingroom-tv-AKx6N6Jk.html">
+<h3>Livingroom TV</h3>
+<p>grow_light: n/a</p>
+</a>
+<a class="environment-card" href="environments/marcs-room-rGwlhYri.html">
+<h3>Marcs-Room</h3>
+<p>grow_light: n/a</p>
+</a>
+<a class="environment-card" href="environments/livingroom-workdesk-V8VX8wm4.html">
+<h3>Livingroom Workdesk</h3>
+<p>grow_light: n/a</p>
+</a>
+<a class="environment-card" href="environments/livingroom-cupboards-UHbB3u56.html">
+<h3>Livingroom Cupboards</h3>
+<p>grow_light: n/a</p>
+</a>
+<a class="environment-card" href="environments/livingroom-sidedesk-uq2BK167.html">
+<h3>Livingroom Sidedesk</h3>
+<p>grow_light: n/a</p>
+</a>
+</div>
+</div>
+</main><footer class="footer"><p># generated • ts: <time class="relative-time" tabindex="0" data-timestamp="1756643979561" datetime="2025-08-31T12:39:39.561420Z"></time></p></footer><script src="assets/app.js"></script><script src="assets/search.js"></script></body></html>
