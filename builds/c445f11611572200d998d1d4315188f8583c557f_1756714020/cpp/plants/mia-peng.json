@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:seW9OMfwrABf7bcVu8Zrqt",
+  "slug": "mia-peng",
+  "names": {
+    "custom": "Mia Peng",
+    "scientific": "Dracaena angolensis"
+  },
+  "health": "good",
+  "size": 35,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/-b1Z9rflSPGO0NqPd38mxQ.webp",
+    "lastUpdated": "2025-08-04T21:32:17.658Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potGlass",
+      "soil": "water",
+      "size": 15,
+      "hasDrainage": false
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-18T09:32:01.503Z",
+      "completedMillis": 1755509521503,
+      "next": "2025-09-01T08:00:00.000Z",
+      "nextMillis": 1756713600000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "repotting": {
+      "completed": "2025-07-28T08:00:00.000Z",
+      "completedMillis": 1753689600000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-02T08:00:00.000Z",
+      "nextMillis": 1762070400000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-17T11:12:44.412Z",
+      "completedMillis": 1755429164412,
+      "next": "2025-09-14T08:00:00.000Z",
+      "nextMillis": 1757836800000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
