@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:7CrPzdPAE04E9hdnhroBDo",
+  "slug": "keanu-leaves",
+  "names": {
+    "custom": "Keanu Leaves",
+    "scientific": "Kalanchoe blossfeldiana"
+  },
+  "health": "good",
+  "size": 15,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/f9STLx1sS1e5LpliWBNKow.webp",
+    "lastUpdated": "2025-08-07T08:35:22.539Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 5,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-25T08:22:29.680Z",
+      "completedMillis": 1756110149680,
+      "next": "2025-09-10T07:00:00.000Z",
+      "nextMillis": 1757487600000
+    },
+    "fertilizing": {
+      "completed": "2025-09-01T09:54:49.902Z",
+      "completedMillis": 1756720489902,
+      "next": "2025-09-25T07:00:00.000Z",
+      "nextMillis": 1758783600000
+    },
+    "repotting": {
+      "completed": "2024-08-05T08:00:00.000Z",
+      "completedMillis": 1722844800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-21T08:21:43.362Z",
+      "completedMillis": 1755764503362,
+      "next": "2025-09-04T08:00:00.000Z",
+      "nextMillis": 1756972800000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
