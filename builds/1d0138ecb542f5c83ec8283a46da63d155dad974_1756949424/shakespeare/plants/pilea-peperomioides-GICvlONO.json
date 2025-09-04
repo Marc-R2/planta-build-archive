@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:cjeGdLahmLFimLGICvlONO",
+  "slug": "pilea-peperomioides-GICvlONO",
+  "names": {
+    "custom": null,
+    "scientific": "Pilea peperomioides"
+  },
+  "health": null,
+  "size": 0,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/RIQT7EwcTMWCc3BYQ0WQWQ.webp",
+    "lastUpdated": "2025-08-28T16:00:34.388Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 12,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-28T07:00:00.000Z",
+      "completedMillis": 1756364400000,
+      "next": "2025-09-07T07:00:00.000Z",
+      "nextMillis": 1757228400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-18T07:00:00.000Z",
+      "nextMillis": 1758178800000
+    },
+    "repotting": {
+      "completed": "2025-05-28T07:00:00.000Z",
+      "completedMillis": 1748415600000,
+      "next": "2026-03-14T07:00:00.000Z",
+      "nextMillis": 1773471600000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-26T07:00:00.000Z",
+      "nextMillis": 1764140400000
+    },
+    "progressUpdate": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-15T07:00:00.000Z",
+      "nextMillis": 1757919600000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-04T07:00:00.000Z",
+      "nextMillis": 1756969200000
+    }
+  }
+}
