@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:nZTq2mfyf5TUcLWqMkdzaE",
+  "slug": "ryan-growsling",
+  "names": {
+    "custom": "Ryan Growsling",
+    "scientific": "Hoya carnosa"
+  },
+  "health": "veryGood",
+  "size": 55,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/cGh5zW_eTISURoKaj9oY-Q.webp",
+    "lastUpdated": "2025-08-28T09:20:10.201Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-25T07:00:00.000Z",
+      "completedMillis": 1756105200000,
+      "next": "2025-09-28T07:00:00.000Z",
+      "nextMillis": 1759042800000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    },
+    "repotting": {
+      "completed": "2025-07-28T07:00:00.000Z",
+      "completedMillis": 1753686000000,
+      "next": "2026-03-14T07:00:00.000Z",
+      "nextMillis": 1773471600000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-26T07:00:00.000Z",
+      "nextMillis": 1764140400000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-28T10:17:03.553Z",
+      "completedMillis": 1756376223553,
+      "next": "2025-10-01T07:00:00.000Z",
+      "nextMillis": 1759302000000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-04T07:00:00.000Z",
+      "nextMillis": 1756969200000
+    }
+  }
+}
