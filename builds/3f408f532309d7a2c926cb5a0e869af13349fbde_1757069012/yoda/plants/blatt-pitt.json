@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:rY5kiNOQPzZNXin1FEP8Py",
+  "slug": "blatt-pitt",
+  "names": {
+    "custom": "Blatt Pitt",
+    "scientific": "Kalanchoe daigremontiana"
+  },
+  "health": "good",
+  "size": 5,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YI_BBfrOR76otfEDLQTgpA.webp",
+    "lastUpdated": "2025-08-02T19:46:33.368Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potOriginalPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 7,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-12T08:03:40.898Z",
+      "completedMillis": 1754985820898,
+      "next": "2025-09-09T07:00:00.000Z",
+      "nextMillis": 1757401200000
+    },
+    "fertilizing": {
+      "completed": "2025-08-26T06:52:54.351Z",
+      "completedMillis": 1756191174351,
+      "next": "2025-09-24T07:00:00.000Z",
+      "nextMillis": 1758697200000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-19T11:01:39.387Z",
+      "completedMillis": 1755601299387,
+      "next": "2025-09-16T08:00:00.000Z",
+      "nextMillis": 1758009600000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}

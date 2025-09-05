@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:JPEnYbVuVM3m5D2iY34Or7",
+  "slug": "tony-bark",
+  "names": {
+    "custom": "Tony Bark",
+    "scientific": "Dracaena reflexa var. angustifolia"
+  },
+  "health": "good",
+  "size": null,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/7UpIwQa9S--WHoQBpxOp7g.webp",
+    "lastUpdated": "2025-08-30T08:14:15.544Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+    "name": "Livingroom Cupboards",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-cupboards-UHbB3u56"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": null,
+      "size": null,
+      "hasDrainage": null
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-30T07:00:00.000Z",
+      "completedMillis": 1756537200000,
+      "next": "2025-09-08T07:00:00.000Z",
+      "nextMillis": 1757314800000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-10-03T07:00:00.000Z",
+      "nextMillis": 1759474800000
+    },
+    "repotting": {
+      "completed": "2025-05-30T07:00:00.000Z",
+      "completedMillis": 1748588400000,
+      "next": "2026-03-14T07:00:00.000Z",
+      "nextMillis": 1773471600000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-28T07:00:00.000Z",
+      "nextMillis": 1764313200000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-30T08:23:53.934Z",
+      "completedMillis": 1756542233934,
+      "next": "2025-09-17T07:00:00.000Z",
+      "nextMillis": 1758092400000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-06T07:00:00.000Z",
+      "nextMillis": 1757142000000
+    }
+  }
+}
