@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MGL1ep2ubjoGSZEkYlx5hz",
+  "slug": "alivia-still",
+  "names": {
+    "custom": "Alivia Still",
+    "scientific": "Yucca gigantea"
+  },
+  "health": "fair",
+  "size": 40,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/baQGl8P6RrCov1gm3QRLBQ.webp",
+    "lastUpdated": "2025-08-19T07:09:25.342Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-01T09:43:29.546Z",
+      "completedMillis": 1756719809546,
+      "next": "2025-09-25T07:00:00.000Z",
+      "nextMillis": 1758783600000
+    },
+    "fertilizing": {
+      "completed": "2025-08-19T07:09:47.226Z",
+      "completedMillis": 1755587387226,
+      "next": "2025-10-19T07:00:00.000Z",
+      "nextMillis": 1760857200000
+    },
+    "repotting": {
+      "completed": "2025-09-01T09:39:38.739Z",
+      "completedMillis": 1756719578739,
+      "next": "2027-03-14T07:00:00.000Z",
+      "nextMillis": 1805007600000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-10-01T07:00:00.000Z",
+      "nextMillis": 1759302000000
+    },
+    "progressUpdate": {
+      "completed": "2025-09-01T09:41:54.702Z",
+      "completedMillis": 1756719714702,
+      "next": "2025-10-19T07:00:00.000Z",
+      "nextMillis": 1760857200000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
