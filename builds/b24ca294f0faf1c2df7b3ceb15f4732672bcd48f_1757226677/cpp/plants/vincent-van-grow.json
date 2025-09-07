@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:XCa9JLUTYV0CRRJjPK2fRW",
+  "slug": "vincent-van-grow",
+  "names": {
+    "custom": "Vincent van Grow",
+    "scientific": "Hoya carnosa"
+  },
+  "health": "veryGood",
+  "size": 25,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uJZnxi2xTiK_D0l9MSSDyw.webp",
+    "lastUpdated": "2025-08-02T19:40:38.351Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potOriginalPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 5,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-14T09:59:00.871Z",
+      "completedMillis": 1755165540871,
+      "next": "2025-09-19T07:00:00.000Z",
+      "nextMillis": 1758265200000
+    },
+    "fertilizing": {
+      "completed": "2025-08-26T06:52:55.210Z",
+      "completedMillis": 1756191175210,
+      "next": "2025-09-07T07:00:00.000Z",
+      "nextMillis": 1757228400000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-10-31T08:00:00.000Z",
+      "nextMillis": 1761897600000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-19T10:54:08.200Z",
+      "completedMillis": 1755600848200,
+      "next": "2025-09-12T08:00:00.000Z",
+      "nextMillis": 1757664000000
+    },
+    "misting": {
+      "completed": "2025-09-05T08:51:07.492Z",
+      "completedMillis": 1757062267492,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    }
+  }
+}
