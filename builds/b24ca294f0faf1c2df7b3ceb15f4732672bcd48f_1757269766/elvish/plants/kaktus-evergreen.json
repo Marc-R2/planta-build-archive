@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:nchZT0yONfU953VDcuPoY2",
+  "slug": "kaktus-evergreen",
+  "names": {
+    "custom": "Kaktus Evergreen",
+    "scientific": "Stetsonia coryne"
+  },
+  "health": "poor",
+  "size": 10,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/mnpc24mSSROz7WzMVd7Uig.webp",
+    "lastUpdated": "2025-08-04T11:44:57.741Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potOriginalPlastic",
+      "soil": "cactusSoil",
+      "size": 5,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-25T08:21:58.238Z",
+      "completedMillis": 1756110118238,
+      "next": "2025-10-12T07:00:00.000Z",
+      "nextMillis": 1760252400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-18T07:00:00.000Z",
+      "nextMillis": 1758178800000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2027-03-14T08:00:00.000Z",
+      "nextMillis": 1805011200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-04T11:46:33.759Z",
+      "completedMillis": 1754307993759,
+      "next": "2025-09-29T08:00:00.000Z",
+      "nextMillis": 1759132800000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
