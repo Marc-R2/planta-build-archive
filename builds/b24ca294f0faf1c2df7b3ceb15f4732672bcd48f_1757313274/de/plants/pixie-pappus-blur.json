@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:FQab9dI3gF3J6OUtJkxmDo",
+  "slug": "pixie-pappus-blur",
+  "names": {
+    "custom": "Pixie Pappus (blur)",
+    "scientific": "Tradescantia pallida"
+  },
+  "health": "good",
+  "size": 45,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/33Cdxa4RRQef6CZeT64f6Q.webp",
+    "lastUpdated": "2025-08-12T08:01:05.968Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 5,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-28T16:17:24.367Z",
+      "completedMillis": 1756397844367,
+      "next": "2025-09-10T07:00:00.000Z",
+      "nextMillis": 1757487600000
+    },
+    "fertilizing": {
+      "completed": "2025-09-03T07:06:26.660Z",
+      "completedMillis": 1756883186660,
+      "next": "2025-09-17T07:00:00.000Z",
+      "nextMillis": 1758092400000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T07:14:56.877Z",
+      "completedMillis": 1756192496877,
+      "next": "2025-09-09T07:00:00.000Z",
+      "nextMillis": 1757401200000
+    },
+    "misting": {
+      "completed": "2025-08-30T07:57:26.823Z",
+      "completedMillis": 1756540646823,
+      "next": "2025-09-06T07:00:00.000Z",
+      "nextMillis": 1757142000000
+    }
+  }
+}

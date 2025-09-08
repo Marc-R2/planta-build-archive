@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:aiyIGsh3Sp3mMhieV10GsU",
+  "slug": "tradescantia-pallida-ieV10GsU",
+  "names": {
+    "custom": null,
+    "scientific": "Tradescantia pallida"
+  },
+  "health": "good",
+  "size": 10,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/6StjLY2ATc-J5ae1HtlWDQ.webp",
+    "lastUpdated": "2025-08-10T10:56:19.830Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potGlass",
+      "soil": "water",
+      "size": 5,
+      "hasDrainage": null
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-08-24T06:42:27.364Z",
+      "completedMillis": 1756017747364,
+      "next": "2025-09-07T07:00:00.000Z",
+      "nextMillis": 1757228400000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "repotting": {
+      "completed": "2025-08-03T08:00:00.000Z",
+      "completedMillis": 1754208000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T07:13:35.459Z",
+      "completedMillis": 1756192415459,
+      "next": "2025-09-23T07:00:00.000Z",
+      "nextMillis": 1758610800000
+    },
+    "misting": {
+      "completed": "2025-09-05T08:50:23.850Z",
+      "completedMillis": 1757062223850,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    }
+  }
+}

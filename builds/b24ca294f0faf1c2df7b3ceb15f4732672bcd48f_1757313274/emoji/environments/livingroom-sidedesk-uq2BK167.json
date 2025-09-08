@@ -1,0 +1,147 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hWK88xLND9u1H0uq2BK167",
+    "name": "Livingroom Sidedesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-sidedesk-uq2BK167"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:2gWoBWTnADsnDyqhrVgAvG",
+      "slug": "gold-hans",
+      "names": {
+        "custom": "Gold Hans",
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "good",
+      "size": 10,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/Cel195T3SQKAB1cGLB7PIA.webp",
+        "lastUpdated": "2025-08-28T08:31:10.757Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hWK88xLND9u1H0uq2BK167",
+        "name": "Livingroom Sidedesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-sidedesk-uq2BK167"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "allPurposePottingMix",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T07:00:00.000Z",
+          "completedMillis": 1756364400000,
+          "next": "2025-09-07T07:00:00.000Z",
+          "nextMillis": 1757228400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-29T07:00:00.000Z",
+          "nextMillis": 1759129200000
+        },
+        "repotting": {
+          "completed": "2025-08-21T07:00:00.000Z",
+          "completedMillis": 1755759600000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-28T08:32:20.222Z",
+          "completedMillis": 1756369940222,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:fejsCSR6r2wj2AfAnxr0KE",
+      "slug": "hoya-carnosa-fAnxr0KE",
+      "names": {
+        "custom": null,
+        "scientific": "Hoya carnosa"
+      },
+      "health": null,
+      "size": null,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/UwPbNmPTR2a5tgtLrH9uXg.webp",
+        "lastUpdated": "2025-08-28T16:09:16.264Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hWK88xLND9u1H0uq2BK167",
+        "name": "Livingroom Sidedesk",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-sidedesk-uq2BK167"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T07:00:00.000Z",
+          "completedMillis": 1756364400000,
+          "next": "2025-10-09T07:00:00.000Z",
+          "nextMillis": 1759993200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "repotting": {
+          "completed": "2025-07-28T07:00:00.000Z",
+          "completedMillis": 1753686000000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-26T07:00:00.000Z",
+          "nextMillis": 1764140400000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-09T07:00:00.000Z",
+          "nextMillis": 1759993200000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:49:04.104Z",
+          "completedMillis": 1757062144104,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    }
+  ],
+  "plantCount": 2,
+  "lang": "emoji"
+}
