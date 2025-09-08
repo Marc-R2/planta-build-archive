@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:VfuUyb5Nk6xvP5L7BJZJaB",
+  "slug": "schlumbergera-truncata-L7BJZJaB",
+  "names": {
+    "custom": null,
+    "scientific": "Schlumbergera truncata"
+  },
+  "health": "fair",
+  "size": 10,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/aRCa33fwQBacHgoH14PA4Q.webp",
+    "lastUpdated": "2025-08-06T14:22:12.006Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 10,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-03T07:08:40.613Z",
+      "completedMillis": 1756883320613,
+      "next": "2025-09-19T07:00:00.000Z",
+      "nextMillis": 1758265200000
+    },
+    "fertilizing": {
+      "completed": "2025-08-26T07:16:51.060Z",
+      "completedMillis": 1756192611060,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    },
+    "repotting": {
+      "completed": "2025-07-30T08:00:00.000Z",
+      "completedMillis": 1753862400000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-04T08:00:00.000Z",
+      "nextMillis": 1762243200000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-26T07:16:07.046Z",
+      "completedMillis": 1756192567046,
+      "next": "2025-09-09T07:00:00.000Z",
+      "nextMillis": 1757401200000
+    },
+    "misting": {
+      "completed": "2025-09-08T07:13:08.702Z",
+      "completedMillis": 1757315588702,
+      "next": "2025-09-14T07:00:00.000Z",
+      "nextMillis": 1757833200000
+    }
+  }
+}
