@@ -1,0 +1,2224 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:mMXlmBvCjfCTqRg3E2Px5c",
+      "slug": "lulu-lili",
+      "names": {
+        "custom": "Lulu Lili",
+        "scientific": "Chlorophytum comosum"
+      },
+      "health": "fair",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/fHMivxTjRRmeWPyUL8Q3CQ.webp",
+        "lastUpdated": "2025-08-21T09:15:10.282Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-01T09:52:17.353Z",
+          "completedMillis": 1756720337353,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "fertilizing": {
+          "completed": "2025-08-22T07:02:29.785Z",
+          "completedMillis": 1755846149785,
+          "next": "2025-09-13T07:00:00.000Z",
+          "nextMillis": 1757746800000
+        },
+        "repotting": {
+          "completed": "2025-05-02T08:00:00.000Z",
+          "completedMillis": 1746172800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-21T09:19:10.944Z",
+          "completedMillis": 1755767950944,
+          "next": "2025-09-10T08:00:00.000Z",
+          "nextMillis": 1757491200000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:51:33.028Z",
+          "completedMillis": 1757062293028,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:lKrXM8w0Hp8TIaUAN4aGlx",
+      "slug": "paul",
+      "names": {
+        "custom": "Paul",
+        "scientific": "Selenicereus undatus"
+      },
+      "health": "good",
+      "size": 60,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/GEE1nIurQT-44gSjuklGTA.webp",
+        "lastUpdated": "2025-08-03T12:45:03.713Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "allPurposePottingMix",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:06:27.929Z",
+          "completedMillis": 1757315187929,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "fertilizing": {
+          "completed": "2025-08-29T07:44:21.319Z",
+          "completedMillis": 1756453461319,
+          "next": "2025-09-28T07:00:00.000Z",
+          "nextMillis": 1759042800000
+        },
+        "repotting": {
+          "completed": "2025-05-02T08:00:00.000Z",
+          "completedMillis": 1746172800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-21T09:18:25.949Z",
+          "completedMillis": 1755767905949,
+          "next": "2025-09-08T08:00:00.000Z",
+          "nextMillis": 1757318400000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:34.286Z",
+          "completedMillis": 1757062234286,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:4UB6ys5uTYdNO2eivnwxFq",
+      "slug": "warrior-rose",
+      "names": {
+        "custom": "Warrior Rose",
+        "scientific": "Dracaena reflexa var. angustifolia"
+      },
+      "health": "fair",
+      "size": 115,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qACxQgAFRB6GYmB-NpE2nA.webp",
+        "lastUpdated": "2025-08-02T18:39:20.790Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 25,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T16:18:02.531Z",
+          "completedMillis": 1756397882531,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "fertilizing": {
+          "completed": "2025-09-05T08:42:00.796Z",
+          "completedMillis": 1757061720796,
+          "next": "2025-10-20T07:00:00.000Z",
+          "nextMillis": 1760943600000
+        },
+        "repotting": {
+          "completed": "2025-05-02T08:00:00.000Z",
+          "completedMillis": 1746172800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-31T08:00:00.000Z",
+          "nextMillis": 1761897600000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-21T09:20:21.837Z",
+          "completedMillis": 1755768021837,
+          "next": "2025-09-08T08:00:00.000Z",
+          "nextMillis": 1757318400000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:51:21.578Z",
+          "completedMillis": 1757062281578,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MGL1ep2ubjoGSZEkYlx5hz",
+      "slug": "alivia-still",
+      "names": {
+        "custom": "Alivia Still",
+        "scientific": "Yucca gigantea"
+      },
+      "health": "fair",
+      "size": 40,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/baQGl8P6RrCov1gm3QRLBQ.webp",
+        "lastUpdated": "2025-08-19T07:09:25.342Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-01T09:43:29.546Z",
+          "completedMillis": 1756719809546,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "fertilizing": {
+          "completed": "2025-08-19T07:09:47.226Z",
+          "completedMillis": 1755587387226,
+          "next": "2025-10-19T07:00:00.000Z",
+          "nextMillis": 1760857200000
+        },
+        "repotting": {
+          "completed": "2025-09-01T09:39:38.739Z",
+          "completedMillis": 1756719578739,
+          "next": "2027-03-14T07:00:00.000Z",
+          "nextMillis": 1805007600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-01T07:00:00.000Z",
+          "nextMillis": 1759302000000
+        },
+        "progressUpdate": {
+          "completed": "2025-09-01T09:41:54.702Z",
+          "completedMillis": 1756719714702,
+          "next": "2025-10-19T07:00:00.000Z",
+          "nextMillis": 1760857200000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:XCa9JLUTYV0CRRJjPK2fRW",
+      "slug": "vincent-van-grow",
+      "names": {
+        "custom": "Vincent van Grow",
+        "scientific": "Hoya carnosa"
+      },
+      "health": "veryGood",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/uJZnxi2xTiK_D0l9MSSDyw.webp",
+        "lastUpdated": "2025-08-02T19:40:38.351Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potOriginalPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 5,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-14T09:59:00.871Z",
+          "completedMillis": 1755165540871,
+          "next": "2025-10-06T07:00:00.000Z",
+          "nextMillis": 1759734000000
+        },
+        "fertilizing": {
+          "completed": "2025-09-08T07:08:11.730Z",
+          "completedMillis": 1757315291730,
+          "next": "2025-09-22T07:00:00.000Z",
+          "nextMillis": 1758524400000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-31T08:00:00.000Z",
+          "nextMillis": 1761897600000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T10:54:08.200Z",
+          "completedMillis": 1755600848200,
+          "next": "2025-09-12T08:00:00.000Z",
+          "nextMillis": 1757664000000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:51:07.492Z",
+          "completedMillis": 1757062267492,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:rY5kiNOQPzZNXin1FEP8Py",
+      "slug": "blatt-pitt",
+      "names": {
+        "custom": "Blatt Pitt",
+        "scientific": "Kalanchoe daigremontiana"
+      },
+      "health": "good",
+      "size": 5,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YI_BBfrOR76otfEDLQTgpA.webp",
+        "lastUpdated": "2025-08-02T19:46:33.368Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potOriginalPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 7,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-12T08:03:40.898Z",
+          "completedMillis": 1754985820898,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "fertilizing": {
+          "completed": "2025-08-26T06:52:54.351Z",
+          "completedMillis": 1756191174351,
+          "next": "2025-09-24T07:00:00.000Z",
+          "nextMillis": 1758697200000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T11:01:39.387Z",
+          "completedMillis": 1755601299387,
+          "next": "2025-09-16T08:00:00.000Z",
+          "nextMillis": 1758009600000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:dUKcOOoki0LJ2iqIRKprJl",
+      "slug": "flynn-climber",
+      "names": {
+        "custom": "Flynn Climber",
+        "scientific": "Schlumbergera truncata"
+      },
+      "health": "veryGood",
+      "size": 20,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/FnC3yMYgRwqSiPjl7NW6Lg.webp",
+        "lastUpdated": "2025-08-18T09:35:16.589Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 5,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:04:47.456Z",
+          "completedMillis": 1757315087456,
+          "next": "2025-09-22T07:00:00.000Z",
+          "nextMillis": 1758524400000
+        },
+        "fertilizing": {
+          "completed": "2025-09-01T09:55:09.652Z",
+          "completedMillis": 1756720509652,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-01T08:00:00.000Z",
+          "nextMillis": 1761984000000
+        },
+        "progressUpdate": {
+          "completed": "2025-09-01T10:04:36.734Z",
+          "completedMillis": 1756721076734,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:49:59.752Z",
+          "completedMillis": 1757062199752,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:nchZT0yONfU953VDcuPoY2",
+      "slug": "kaktus-evergreen",
+      "names": {
+        "custom": "Kaktus Evergreen",
+        "scientific": "Stetsonia coryne"
+      },
+      "health": "poor",
+      "size": 10,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/mnpc24mSSROz7WzMVd7Uig.webp",
+        "lastUpdated": "2025-08-04T11:44:57.741Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potOriginalPlastic",
+          "soil": "cactusSoil",
+          "size": 5,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-25T08:21:58.238Z",
+          "completedMillis": 1756110118238,
+          "next": "2025-10-12T07:00:00.000Z",
+          "nextMillis": 1760252400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-04T11:46:33.759Z",
+          "completedMillis": 1754307993759,
+          "next": "2025-09-29T08:00:00.000Z",
+          "nextMillis": 1759132800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:seW9OMfwrABf7bcVu8Zrqt",
+      "slug": "mia-peng",
+      "names": {
+        "custom": "Mia Peng",
+        "scientific": "Dracaena angolensis"
+      },
+      "health": "good",
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/-b1Z9rflSPGO0NqPd38mxQ.webp",
+        "lastUpdated": "2025-08-04T21:32:17.658Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potGlass",
+          "soil": "water",
+          "size": 15,
+          "hasDrainage": false
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-01T09:52:19.081Z",
+          "completedMillis": 1756720339081,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-07-28T08:00:00.000Z",
+          "completedMillis": 1753689600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-02T08:00:00.000Z",
+          "nextMillis": 1762070400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-17T11:12:44.412Z",
+          "completedMillis": 1755429164412,
+          "next": "2025-09-14T08:00:00.000Z",
+          "nextMillis": 1757836800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:SwBWZJRcmkvX5CmE9NOLwT",
+      "slug": "aloe-vera-mE9NOLwT",
+      "names": {
+        "custom": null,
+        "scientific": "Aloe vera"
+      },
+      "health": null,
+      "size": null,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/public/plant_database/3788/ao41pfwbfvsdgphfsjgk.webp",
+        "lastUpdated": "1970-01-01T00:00:00.000Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": null,
+          "size": null,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-24T06:42:23.350Z",
+          "completedMillis": 1756017743350,
+          "next": "2025-10-07T07:00:00.000Z",
+          "nextMillis": 1759820400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "repotting": {
+          "completed": "2024-08-05T08:00:00.000Z",
+          "completedMillis": 1722844800000,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-02-01T08:00:00.000Z",
+          "nextMillis": 1769932800000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-18T08:00:00.000Z",
+          "nextMillis": 1758182400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:7CrPzdPAE04E9hdnhroBDo",
+      "slug": "keanu-leaves",
+      "names": {
+        "custom": "Keanu Leaves",
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "good",
+      "size": 15,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/yigDhaq8RAqtyZIWZiTWfg.webp",
+        "lastUpdated": "2025-08-21T08:21:43.414Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 5,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-25T08:22:29.680Z",
+          "completedMillis": 1756110149680,
+          "next": "2025-09-10T07:00:00.000Z",
+          "nextMillis": 1757487600000
+        },
+        "fertilizing": {
+          "completed": "2025-09-01T09:54:49.902Z",
+          "completedMillis": 1756720489902,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "repotting": {
+          "completed": "2024-08-05T08:00:00.000Z",
+          "completedMillis": 1722844800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-09-04T15:14:00.911Z",
+          "completedMillis": 1756998840911,
+          "next": "2025-09-22T07:00:00.000Z",
+          "nextMillis": 1758524400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:FQab9dI3gF3J6OUtJkxmDo",
+      "slug": "pixie-pappus-blur",
+      "names": {
+        "custom": "Pixie Pappus (blur)",
+        "scientific": "Tradescantia pallida"
+      },
+      "health": "good",
+      "size": 45,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/33Cdxa4RRQef6CZeT64f6Q.webp",
+        "lastUpdated": "2025-08-12T08:01:05.968Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 5,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T16:17:24.367Z",
+          "completedMillis": 1756397844367,
+          "next": "2025-09-10T07:00:00.000Z",
+          "nextMillis": 1757487600000
+        },
+        "fertilizing": {
+          "completed": "2025-09-03T07:06:26.660Z",
+          "completedMillis": 1756883186660,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:14:56.877Z",
+          "completedMillis": 1756192496877,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:12:24.260Z",
+          "completedMillis": 1757315544260,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:Kxvw9ioDK7s5CN1sJLpBer",
+      "slug": "anni-frost",
+      "names": {
+        "custom": "Anni Frost",
+        "scientific": "Schlumbergera truncata"
+      },
+      "health": "good",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/9NfyD_lfQB-1W4rp2VyhtA.webp",
+        "lastUpdated": "2025-08-06T14:23:34.933Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-05T08:06:00.098Z",
+          "completedMillis": 1757059560098,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "fertilizing": {
+          "completed": "2025-08-27T11:08:48.069Z",
+          "completedMillis": 1756292928069,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "repotting": {
+          "completed": "2025-05-05T08:00:00.000Z",
+          "completedMillis": 1746432000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-03T08:00:00.000Z",
+          "nextMillis": 1762156800000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T10:49:46.257Z",
+          "completedMillis": 1755600586257,
+          "next": "2025-09-06T08:00:00.000Z",
+          "nextMillis": 1757145600000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:13:28.502Z",
+          "completedMillis": 1757315608502,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:oIrifOkJwByeqmRhi0YzPV",
+      "slug": "dracaena-angolensis-Rhi0YzPV",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena angolensis"
+      },
+      "health": "good",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/YAkNsPg5TjuTEL2lE7-MZw.webp",
+        "lastUpdated": "2025-08-06T14:08:31.041Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potGlass",
+          "soil": "water",
+          "size": 5,
+          "hasDrainage": false
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-05T08:05:15.911Z",
+          "completedMillis": 1757059515911,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": "2025-09-05T08:25:49.765Z",
+          "completedMillis": 1757060749765,
+          "next": "2025-10-03T07:00:00.000Z",
+          "nextMillis": 1759474800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:klBM36ry7ZFaOKzkt6bPhH",
+      "slug": "dracaena-angolensis-zkt6bPhH",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena angolensis"
+      },
+      "health": null,
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/yY6LInKvTCWojRvYozG3yA.webp",
+        "lastUpdated": "2025-08-23T08:07:49.617Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-23T08:07:55.354Z",
+          "completedMillis": 1755936475354,
+          "next": "2025-09-26T07:00:00.000Z",
+          "nextMillis": 1758870000000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-09T08:00:00.000Z",
+          "nextMillis": 1757404800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:ESn4koaOn67ZKFr9z6wDwd",
+      "slug": "dracaena-angolensis-r9z6wDwd",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena angolensis"
+      },
+      "health": "good",
+      "size": 10,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/sug6jZvCSK-RcHuDW3NXkg.webp",
+        "lastUpdated": "2025-08-06T14:15:54.327Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-20T07:11:13.598Z",
+          "completedMillis": 1755673873598,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "fertilizing": {
+          "completed": "2025-09-03T07:08:15.920Z",
+          "completedMillis": 1756883295920,
+          "next": "2025-10-06T07:00:00.000Z",
+          "nextMillis": 1759734000000
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": "2025-09-05T08:27:14.941Z",
+          "completedMillis": 1757060834941,
+          "next": "2025-10-07T07:00:00.000Z",
+          "nextMillis": 1759820400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:XQu9ZtEOBPZOs952gSOFQx",
+      "slug": "dracaena-angolensis-52gSOFQx",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena angolensis"
+      },
+      "health": null,
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/aCrP7NMyQDKdc-5Rok7TtA.webp",
+        "lastUpdated": "2025-08-06T14:17:39.724Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-23T08:04:43.305Z",
+          "completedMillis": 1755936283305,
+          "next": "2025-09-26T07:00:00.000Z",
+          "nextMillis": 1758870000000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-09T08:00:00.000Z",
+          "nextMillis": 1757404800000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:GudpmIXoqbhuTx6aKkgPiX",
+      "slug": "ella-frost",
+      "names": {
+        "custom": "Ella Frost",
+        "scientific": "Schlumbergera truncata"
+      },
+      "health": "fair",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/sbDehR2SQ3CbLxaUfTcEog.webp",
+        "lastUpdated": "2025-08-07T09:19:54.042Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-23T08:03:40.755Z",
+          "completedMillis": 1755936220755,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "fertilizing": {
+          "completed": "2025-09-01T10:03:02.727Z",
+          "completedMillis": 1756720982727,
+          "next": "2025-09-21T07:00:00.000Z",
+          "nextMillis": 1758438000000
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:20:03.929Z",
+          "completedMillis": 1756192803929,
+          "next": "2025-09-13T07:00:00.000Z",
+          "nextMillis": 1757746800000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:13:41.400Z",
+          "completedMillis": 1757315621400,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:VfuUyb5Nk6xvP5L7BJZJaB",
+      "slug": "schlumbergera-truncata-L7BJZJaB",
+      "names": {
+        "custom": null,
+        "scientific": "Schlumbergera truncata"
+      },
+      "health": "fair",
+      "size": 10,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/aRCa33fwQBacHgoH14PA4Q.webp",
+        "lastUpdated": "2025-08-06T14:22:12.006Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-03T07:08:40.613Z",
+          "completedMillis": 1756883320613,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "fertilizing": {
+          "completed": "2025-08-26T07:16:51.060Z",
+          "completedMillis": 1756192611060,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:16:07.046Z",
+          "completedMillis": 1756192567046,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:13:08.702Z",
+          "completedMillis": 1757315588702,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:cjuvkSquQrwJljCmw41Hzd",
+      "slug": "dracaena-angolensis-Cmw41Hzd",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena angolensis"
+      },
+      "health": "good",
+      "size": 0,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/PRoBd5NRTmWnwuhspkoemA.webp",
+        "lastUpdated": "2025-08-06T14:37:46.318Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potGlass",
+          "soil": "water",
+          "size": 5,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-05T08:51:48.237Z",
+          "completedMillis": 1757062308237,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-07-30T08:00:00.000Z",
+          "completedMillis": 1753862400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-04T08:00:00.000Z",
+          "nextMillis": 1762243200000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T07:46:36.727Z",
+          "completedMillis": 1755589596727,
+          "next": "2025-09-16T08:00:00.000Z",
+          "nextMillis": 1758009600000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:AAaADcx98FCcWoZIFAvUmJ",
+      "slug": "pixie-pappus-sharp",
+      "names": {
+        "custom": "Pixie Pappus (sharp)",
+        "scientific": "Tradescantia pallida"
+      },
+      "health": "veryGood",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/DZUBnb0MTUS8nLjUa6zvlw.webp",
+        "lastUpdated": "2025-08-06T14:45:25.996Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-30T07:55:19.432Z",
+          "completedMillis": 1756540519432,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "fertilizing": {
+          "completed": "2025-09-08T07:08:11.168Z",
+          "completedMillis": 1757315291168,
+          "next": "2025-09-28T07:00:00.000Z",
+          "nextMillis": 1759042800000
+        },
+        "repotting": {
+          "completed": "2025-05-06T08:00:00.000Z",
+          "completedMillis": 1746518400000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:23:17.646Z",
+          "completedMillis": 1756192997646,
+          "next": "2025-09-13T07:00:00.000Z",
+          "nextMillis": 1757746800000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:12:40.317Z",
+          "completedMillis": 1757315560317,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:VnfVKad6oalT8uBfaturk3",
+      "slug": "handofblatt",
+      "names": {
+        "custom": "HandOfBlatt",
+        "scientific": "Chlorophytum comosum"
+      },
+      "health": "good",
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/hG1ZjNNISVSQoWJNrV28sQ.webp",
+        "lastUpdated": "2025-08-21T08:18:38.636Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potOriginalPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 7,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-06T09:37:52.363Z",
+          "completedMillis": 1757151472363,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "fertilizing": {
+          "completed": "2025-09-01T09:54:47.525Z",
+          "completedMillis": 1756720487525,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-09-05T08:52:53.410Z",
+          "completedMillis": 1757062373410,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:11:48.437Z",
+          "completedMillis": 1757315508437,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:AaC6kf5BWdWYPpIxXGp90K",
+      "slug": "heidi-reichinfeld",
+      "names": {
+        "custom": "Heidi Reichinfeld",
+        "scientific": "Pilea peperomioides"
+      },
+      "health": "veryGood",
+      "size": 20,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/ZON0Oq8zQHSIeirVcHoe_w.webp",
+        "lastUpdated": "2025-08-07T08:31:03.251Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-06T09:38:12.919Z",
+          "completedMillis": 1757151492919,
+          "next": "2025-09-26T07:00:00.000Z",
+          "nextMillis": 1758870000000
+        },
+        "fertilizing": {
+          "completed": "2025-08-29T07:45:11.505Z",
+          "completedMillis": 1756453511505,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "repotting": {
+          "completed": "2025-05-07T08:00:00.000Z",
+          "completedMillis": 1746604800000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-05T08:00:00.000Z",
+          "nextMillis": 1762329600000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:12:34.310Z",
+          "completedMillis": 1756192354310,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:12:02.917Z",
+          "completedMillis": 1757315522917,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:sqf600th6V7wyzOG7zlsjZ",
+      "slug": "aloe-vera-OG7zlsjZ",
+      "names": {
+        "custom": null,
+        "scientific": "Aloe vera"
+      },
+      "health": "fair",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/tXsuryQ8TiqaUpDyqdODBA.webp",
+        "lastUpdated": "2025-08-10T10:35:33.971Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potGlass",
+          "soil": "water",
+          "size": 5,
+          "hasDrainage": false
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:04:42.897Z",
+          "completedMillis": 1757315082897,
+          "next": "2025-09-22T07:00:00.000Z",
+          "nextMillis": 1758524400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-08-03T08:00:00.000Z",
+          "completedMillis": 1754208000000,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-02-06T08:00:00.000Z",
+          "nextMillis": 1770364800000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-28T08:39:00.750Z",
+          "completedMillis": 1756370340750,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:aiyIGsh3Sp3mMhieV10GsU",
+      "slug": "tradescantia-pallida-ieV10GsU",
+      "names": {
+        "custom": null,
+        "scientific": "Tradescantia pallida"
+      },
+      "health": "good",
+      "size": 10,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/6StjLY2ATc-J5ae1HtlWDQ.webp",
+        "lastUpdated": "2025-08-10T10:56:19.830Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potGlass",
+          "soil": "water",
+          "size": 5,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:05:00.705Z",
+          "completedMillis": 1757315100705,
+          "next": "2025-09-22T07:00:00.000Z",
+          "nextMillis": 1758524400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-08-03T08:00:00.000Z",
+          "completedMillis": 1754208000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:13:35.459Z",
+          "completedMillis": 1756192415459,
+          "next": "2025-09-23T07:00:00.000Z",
+          "nextMillis": 1758610800000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:23.850Z",
+          "completedMillis": 1757062223850,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:U6juZ1r6DWQI82OJkv9pLS",
+      "slug": "aloe-vera-OJkv9pLS",
+      "names": {
+        "custom": null,
+        "scientific": "Aloe vera"
+      },
+      "health": "fair",
+      "size": 25,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/bkZBdzx5QmKazlKXSrQg8Q.webp",
+        "lastUpdated": "2025-08-10T11:23:08.259Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-31T08:16:24.686Z",
+          "completedMillis": 1756628184686,
+          "next": "2025-10-12T07:00:00.000Z",
+          "nextMillis": 1760252400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-21T07:00:00.000Z",
+          "nextMillis": 1758438000000
+        },
+        "repotting": {
+          "completed": "2025-05-10T08:00:00.000Z",
+          "completedMillis": 1746864000000,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-02-06T08:00:00.000Z",
+          "nextMillis": 1770364800000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-10T11:23:52.278Z",
+          "completedMillis": 1754825032278,
+          "next": "2025-09-21T08:00:00.000Z",
+          "nextMillis": 1758441600000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MnXlInaKZ63byFPvTIi6vM",
+      "slug": "alex-jobs",
+      "names": {
+        "custom": "Alex Jobs",
+        "scientific": "Dracaena angolensis"
+      },
+      "health": "fair",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/XA_81uCpQgmLuLh2HsccAQ.webp",
+        "lastUpdated": "2025-08-19T11:16:51.328Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-05T08:05:11.715Z",
+          "completedMillis": 1757059511715,
+          "next": "2025-10-15T07:00:00.000Z",
+          "nextMillis": 1760511600000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "repotting": {
+          "completed": "2025-08-12T08:00:00.000Z",
+          "completedMillis": 1754985600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-17T08:00:00.000Z",
+          "nextMillis": 1763366400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T11:18:16.307Z",
+          "completedMillis": 1755602296307,
+          "next": "2025-09-22T08:00:00.000Z",
+          "nextMillis": 1758528000000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N42590xTeXybgOCm4vAoyE",
+      "slug": "peppa-mindy",
+      "names": {
+        "custom": "Peppa-Mindy",
+        "scientific": "Mentha x piperita"
+      },
+      "health": "fair",
+      "size": 40,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/zBt08JbOR2y_IJxNg3J5dQ.webp",
+        "lastUpdated": "2025-08-24T10:20:31.731Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "allPurposePottingMix",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:09:28.968Z",
+          "completedMillis": 1757315368968,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-12T07:00:00.000Z",
+          "nextMillis": 1757660400000
+        },
+        "repotting": {
+          "completed": "2025-05-24T07:00:00.000Z",
+          "completedMillis": 1748070000000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-24T10:20:58.948Z",
+          "completedMillis": 1756030858948,
+          "next": "2025-09-07T07:00:00.000Z",
+          "nextMillis": 1757228400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:nZTq2mfyf5TUcLWqMkdzaE",
+      "slug": "ryan-growsling",
+      "names": {
+        "custom": "Ryan Growsling",
+        "scientific": "Hoya carnosa"
+      },
+      "health": "veryGood",
+      "size": 55,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/cGh5zW_eTISURoKaj9oY-Q.webp",
+        "lastUpdated": "2025-08-28T09:20:10.201Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-25T07:00:00.000Z",
+          "completedMillis": 1756105200000,
+          "next": "2025-09-28T07:00:00.000Z",
+          "nextMillis": 1759042800000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "repotting": {
+          "completed": "2025-07-28T07:00:00.000Z",
+          "completedMillis": 1753686000000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-26T07:00:00.000Z",
+          "nextMillis": 1764140400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-28T10:17:03.553Z",
+          "completedMillis": 1756376223553,
+          "next": "2025-10-01T07:00:00.000Z",
+          "nextMillis": 1759302000000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:46.571Z",
+          "completedMillis": 1757062246571,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:YK6QJUdNc8cj6J14pQrch8",
+      "slug": "tastatur",
+      "names": {
+        "custom": "Tastatur",
+        "scientific": "Lepidium sativum"
+      },
+      "health": null,
+      "size": null,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/UvjT2m8STDi33y-0WnZoJQ.webp",
+        "lastUpdated": "2025-08-28T15:44:04.597Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "other",
+          "soil": null,
+          "size": null,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-05T08:05:34.533Z",
+          "completedMillis": 1757059534533,
+          "next": "2025-09-10T07:00:00.000Z",
+          "nextMillis": 1757487600000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-21T07:00:00.000Z",
+          "nextMillis": 1758438000000
+        },
+        "repotting": {
+          "completed": "2025-08-21T07:00:00.000Z",
+          "completedMillis": 1755759600000,
+          "next": null,
+          "nextMillis": null
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:48.275Z",
+          "completedMillis": 1757062248275,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:YAbYj2kMkp4jUZwuSAoFvT",
+      "slug": "mein-herzblatt",
+      "names": {
+        "custom": "Mein Herzblatt",
+        "scientific": "Hoya kerrii"
+      },
+      "health": "good",
+      "size": 5,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/9kz5zNQvR9K9crH0A71VZQ.webp",
+        "lastUpdated": "2025-08-28T15:57:05.463Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T07:00:00.000Z",
+          "completedMillis": 1756364400000,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-01T07:00:00.000Z",
+          "nextMillis": 1759302000000
+        },
+        "repotting": {
+          "completed": "2025-07-28T07:00:00.000Z",
+          "completedMillis": 1753686000000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-26T07:00:00.000Z",
+          "nextMillis": 1764140400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-28T15:57:20.252Z",
+          "completedMillis": 1756396640252,
+          "next": "2025-10-01T07:00:00.000Z",
+          "nextMillis": 1759302000000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:09.250Z",
+          "completedMillis": 1757062209250,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:cjeGdLahmLFimLGICvlONO",
+      "slug": "pilea-peperomioides-GICvlONO",
+      "names": {
+        "custom": null,
+        "scientific": "Pilea peperomioides"
+      },
+      "health": null,
+      "size": 0,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/RIQT7EwcTMWCc3BYQ0WQWQ.webp",
+        "lastUpdated": "2025-08-28T16:00:34.388Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:06:43.475Z",
+          "completedMillis": 1757315203475,
+          "next": "2025-10-02T07:00:00.000Z",
+          "nextMillis": 1759388400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-20T07:00:00.000Z",
+          "nextMillis": 1758351600000
+        },
+        "repotting": {
+          "completed": "2025-05-28T07:00:00.000Z",
+          "completedMillis": 1748415600000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-26T07:00:00.000Z",
+          "nextMillis": 1764140400000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:50:56.229Z",
+          "completedMillis": 1757062256229,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:ejuBT2jFJ9j2uzPed2Uacw",
+      "slug": "dracaena-sanderiana-Ped2Uacw",
+      "names": {
+        "custom": null,
+        "scientific": "Dracaena sanderiana"
+      },
+      "health": null,
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/l3vW2XWSSvOUjAhZBb6ouw.webp",
+        "lastUpdated": "2025-09-01T09:46:16.465Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+        "name": "Livingroom window",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-window-h5YaTW5P"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-01T07:00:00.000Z",
+          "completedMillis": 1756710000000,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "repotting": {
+          "completed": "2025-08-25T07:00:00.000Z",
+          "completedMillis": 1756105200000,
+          "next": null,
+          "nextMillis": null
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    }
+  ],
+  "plantCount": 33,
+  "lang": "shakespeare"
+}
