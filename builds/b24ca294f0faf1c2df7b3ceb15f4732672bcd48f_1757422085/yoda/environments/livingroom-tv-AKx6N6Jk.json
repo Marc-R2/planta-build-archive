@@ -1,0 +1,415 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:s2P4CDbBTcfBbWUMqnhDtq",
+      "slug": "isi-flynn",
+      "names": {
+        "custom": "Isi Flynn",
+        "scientific": "Persea americana"
+      },
+      "health": "fair",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/_tqUlIW3ScOYC_vg8GrBmw.webp",
+        "lastUpdated": "2025-08-23T15:16:15.058Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potOriginalPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-03T07:10:36.890Z",
+          "completedMillis": 1756883436890,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "fertilizing": {
+          "completed": "2025-08-27T11:07:34.197Z",
+          "completedMillis": 1756292854197,
+          "next": "2025-09-10T07:00:00.000Z",
+          "nextMillis": 1757487600000
+        },
+        "repotting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-01T08:00:00.000Z",
+          "nextMillis": 1761984000000
+        },
+        "progressUpdate": {
+          "completed": "2025-09-06T09:40:36.976Z",
+          "completedMillis": 1757151636976,
+          "next": "2025-09-20T07:00:00.000Z",
+          "nextMillis": 1758351600000
+        },
+        "misting": {
+          "completed": "2025-09-09T07:05:35.273Z",
+          "completedMillis": 1757401535273,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:0wVseZbAgNQdgp6KBmLLjS",
+      "slug": "pflanziska-vollmer",
+      "names": {
+        "custom": "Pflanziska Vollmer",
+        "scientific": "Kalanchoe blossfeldiana"
+      },
+      "health": "good",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/B8Cwr_6lTYaG7xEZW3261w.webp",
+        "lastUpdated": "2025-08-07T09:15:30.066Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "allPurposePottingMix",
+          "size": 12,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-28T16:16:37.430Z",
+          "completedMillis": 1756397797430,
+          "next": "2025-09-20T07:00:00.000Z",
+          "nextMillis": 1758351600000
+        },
+        "fertilizing": {
+          "completed": "2025-09-08T07:08:08.670Z",
+          "completedMillis": 1757315288670,
+          "next": "2025-10-12T07:00:00.000Z",
+          "nextMillis": 1760252400000
+        },
+        "repotting": {
+          "completed": "2024-08-03T08:00:00.000Z",
+          "completedMillis": 1722672000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-18T09:54:05.126Z",
+          "completedMillis": 1755510845126,
+          "next": "2025-09-07T08:00:00.000Z",
+          "nextMillis": 1757232000000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:o6VMfqYlBtfxDMfRymDywz",
+      "slug": "ted-growsby",
+      "names": {
+        "custom": "Ted Growsby",
+        "scientific": "Epipremnum aureum"
+      },
+      "health": "good",
+      "size": 130,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/q9_eYtoLQP-BT4w-mgT0dA.webp",
+        "lastUpdated": "2025-08-07T09:16:08.887Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-27T11:06:00.218Z",
+          "completedMillis": 1756292760218,
+          "next": "2025-09-15T07:00:00.000Z",
+          "nextMillis": 1757919600000
+        },
+        "fertilizing": {
+          "completed": "2025-09-05T08:39:55.274Z",
+          "completedMillis": 1757061595274,
+          "next": "2025-09-25T07:00:00.000Z",
+          "nextMillis": 1758783600000
+        },
+        "repotting": {
+          "completed": "2025-05-04T08:00:00.000Z",
+          "completedMillis": 1746345600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-02T08:00:00.000Z",
+          "nextMillis": 1762070400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T08:10:48.794Z",
+          "completedMillis": 1756195848794,
+          "next": "2025-09-13T07:00:00.000Z",
+          "nextMillis": 1757746800000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:11:35.660Z",
+          "completedMillis": 1757315495660,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:G9GZhCnYHXKz9OX0DOv7mZ",
+      "slug": "ma-ana",
+      "names": {
+        "custom": "Mañana",
+        "scientific": "Scindapsus pictus"
+      },
+      "health": "veryGood",
+      "size": 20,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/c0kCJEyCRASxrz8WGlum2g.webp",
+        "lastUpdated": "2025-08-10T10:33:46.045Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:04:27.318Z",
+          "completedMillis": 1757315067318,
+          "next": "2025-09-28T07:00:00.000Z",
+          "nextMillis": 1759042800000
+        },
+        "fertilizing": {
+          "completed": "2025-08-29T07:44:20.188Z",
+          "completedMillis": 1756453460188,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "repotting": {
+          "completed": "2025-07-07T08:00:00.000Z",
+          "completedMillis": 1751875200000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:11:07.139Z",
+          "completedMillis": 1756192267139,
+          "next": "2025-09-13T07:00:00.000Z",
+          "nextMillis": 1757746800000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:11:21.039Z",
+          "completedMillis": 1757315481039,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:PBxj2Zerg7ksfMgKFeWg3q",
+      "slug": "dwayne-the-plant-johnson",
+      "names": {
+        "custom": "Dwayne `the plant` Johnson",
+        "scientific": "Persea americana"
+      },
+      "health": "good",
+      "size": 35,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/wp7cVwAbTtOrqJrU75BQCA.webp",
+        "lastUpdated": "2025-08-10T10:50:08.453Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:04:04.998Z",
+          "completedMillis": 1757315044998,
+          "next": "2025-09-28T07:00:00.000Z",
+          "nextMillis": 1759042800000
+        },
+        "fertilizing": {
+          "completed": "2025-08-29T07:45:49.508Z",
+          "completedMillis": 1756453549508,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "repotting": {
+          "completed": "2025-05-10T08:00:00.000Z",
+          "completedMillis": 1746864000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-08T08:00:00.000Z",
+          "nextMillis": 1762588800000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-29T14:02:57.248Z",
+          "completedMillis": 1756476177248,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:49:16.544Z",
+          "completedMillis": 1757062156544,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:02nVPIyiHVSLXBb77bihtF",
+      "slug": "chlorophytum-comosum-b77bihtF",
+      "names": {
+        "custom": null,
+        "scientific": "Chlorophytum comosum"
+      },
+      "health": "good",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/XuBXd8hdRP2Z2E7mPLUiYQ.webp",
+        "lastUpdated": "2025-08-10T11:29:15.304Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+        "name": "Livingroom TV",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-tv-AKx6N6Jk"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:04:15.004Z",
+          "completedMillis": 1757315055004,
+          "next": "2025-09-24T07:00:00.000Z",
+          "nextMillis": 1758697200000
+        },
+        "fertilizing": {
+          "completed": "2025-08-31T08:12:23.409Z",
+          "completedMillis": 1756627943409,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "repotting": {
+          "completed": "2025-05-10T08:00:00.000Z",
+          "completedMillis": 1746864000000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-26T07:18:19.593Z",
+          "completedMillis": 1756192699593,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:51:43.690Z",
+          "completedMillis": 1757062303690,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    }
+  ],
+  "plantCount": 6,
+  "lang": "yoda"
+}
