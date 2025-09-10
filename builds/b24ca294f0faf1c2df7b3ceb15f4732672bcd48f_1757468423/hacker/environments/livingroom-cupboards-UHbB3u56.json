@@ -1,0 +1,214 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+    "name": "Livingroom Cupboards",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-cupboards-UHbB3u56"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:LqsEmSJyotx17fcNId26XU",
+      "slug": "mike-growskowski",
+      "names": {
+        "custom": "Mike Growskowski",
+        "scientific": "Pilea peperomioides"
+      },
+      "health": "veryGood",
+      "size": 30,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/lHk9XU5-SoiAILVsD04Ojw.webp",
+        "lastUpdated": "2025-08-19T11:20:42.115Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+        "name": "Livingroom Cupboards",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-cupboards-UHbB3u56"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-26T06:50:25.842Z",
+          "completedMillis": 1756191025842,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "fertilizing": {
+          "completed": "2025-09-05T08:39:39.644Z",
+          "completedMillis": 1757061579644,
+          "next": "2025-09-29T07:00:00.000Z",
+          "nextMillis": 1759129200000
+        },
+        "repotting": {
+          "completed": "2025-05-19T08:00:00.000Z",
+          "completedMillis": 1747641600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-17T08:00:00.000Z",
+          "nextMillis": 1763366400000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-19T11:21:42.188Z",
+          "completedMillis": 1755602502188,
+          "next": "2025-09-08T08:00:00.000Z",
+          "nextMillis": 1757318400000
+        },
+        "misting": {
+          "completed": "2025-09-05T08:48:54.106Z",
+          "completedMillis": 1757062134106,
+          "next": "2025-09-11T07:00:00.000Z",
+          "nextMillis": 1757574000000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:JPEnYbVuVM3m5D2iY34Or7",
+      "slug": "tony-bark",
+      "names": {
+        "custom": "Tony Bark",
+        "scientific": "Dracaena reflexa var. angustifolia"
+      },
+      "health": "good",
+      "size": null,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/7UpIwQa9S--WHoQBpxOp7g.webp",
+        "lastUpdated": "2025-08-30T08:14:15.544Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+        "name": "Livingroom Cupboards",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-cupboards-UHbB3u56"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": null,
+          "size": null,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-09-08T07:09:44.051Z",
+          "completedMillis": 1757315384051,
+          "next": "2025-09-18T07:00:00.000Z",
+          "nextMillis": 1758178800000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-10T07:00:00.000Z",
+          "nextMillis": 1760079600000
+        },
+        "repotting": {
+          "completed": "2025-05-30T07:00:00.000Z",
+          "completedMillis": 1748588400000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-28T07:00:00.000Z",
+          "nextMillis": 1764313200000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-30T08:23:53.934Z",
+          "completedMillis": 1756542233934,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:11:03.115Z",
+          "completedMillis": 1757315463115,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:EDgDgMAdGlqszQqOaJBjwa",
+      "slug": "jan-baumermann",
+      "names": {
+        "custom": "Jan Baumermann",
+        "scientific": "Dracaena reflexa var. angustifolia"
+      },
+      "health": "fair",
+      "size": null,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/2Qj2qXD0SqePrsnJrFI5ZQ.webp",
+        "lastUpdated": "2025-08-30T08:15:00.158Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:irhQzqQXKMcat7UHbB3u56",
+        "name": "Livingroom Cupboards",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "livingroom-cupboards-UHbB3u56"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": null,
+          "size": null,
+          "hasDrainage": null
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-30T07:00:00.000Z",
+          "completedMillis": 1756537200000,
+          "next": "2025-09-09T07:00:00.000Z",
+          "nextMillis": 1757401200000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-10T07:00:00.000Z",
+          "nextMillis": 1760079600000
+        },
+        "repotting": {
+          "completed": "2025-05-30T07:00:00.000Z",
+          "completedMillis": 1748588400000,
+          "next": "2026-03-14T07:00:00.000Z",
+          "nextMillis": 1773471600000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-11-28T07:00:00.000Z",
+          "nextMillis": 1764313200000
+        },
+        "progressUpdate": {
+          "completed": "2025-08-30T08:23:27.101Z",
+          "completedMillis": 1756542207101,
+          "next": "2025-09-19T07:00:00.000Z",
+          "nextMillis": 1758265200000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:10:49.048Z",
+          "completedMillis": 1757315449048,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    }
+  ],
+  "plantCount": 3,
+  "lang": "hacker"
+}
