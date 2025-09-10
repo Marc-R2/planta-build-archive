@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:cjuvkSquQrwJljCmw41Hzd",
+  "slug": "dracaena-angolensis-Cmw41Hzd",
+  "names": {
+    "custom": null,
+    "scientific": "Dracaena angolensis"
+  },
+  "health": "good",
+  "size": 0,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/PRoBd5NRTmWnwuhspkoemA.webp",
+    "lastUpdated": "2025-08-06T14:37:46.318Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potGlass",
+      "soil": "water",
+      "size": 5,
+      "hasDrainage": null
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-05T08:51:48.237Z",
+      "completedMillis": 1757062308237,
+      "next": "2025-09-19T07:00:00.000Z",
+      "nextMillis": 1758265200000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "repotting": {
+      "completed": "2025-07-30T08:00:00.000Z",
+      "completedMillis": 1753862400000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-04T08:00:00.000Z",
+      "nextMillis": 1762243200000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-19T07:46:36.727Z",
+      "completedMillis": 1755589596727,
+      "next": "2025-09-16T08:00:00.000Z",
+      "nextMillis": 1758009600000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
