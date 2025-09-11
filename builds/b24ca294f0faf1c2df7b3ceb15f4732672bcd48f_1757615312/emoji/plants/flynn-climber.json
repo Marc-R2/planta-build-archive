@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:dUKcOOoki0LJ2iqIRKprJl",
+  "slug": "flynn-climber",
+  "names": {
+    "custom": "Flynn Climber",
+    "scientific": "Schlumbergera truncata"
+  },
+  "health": "veryGood",
+  "size": 20,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/FnC3yMYgRwqSiPjl7NW6Lg.webp",
+    "lastUpdated": "2025-08-18T09:35:16.589Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 5,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-08T07:04:47.456Z",
+      "completedMillis": 1757315087456,
+      "next": "2025-09-22T07:00:00.000Z",
+      "nextMillis": 1758524400000
+    },
+    "fertilizing": {
+      "completed": "2025-09-01T09:55:09.652Z",
+      "completedMillis": 1756720509652,
+      "next": "2025-09-15T07:00:00.000Z",
+      "nextMillis": 1757919600000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-01T08:00:00.000Z",
+      "nextMillis": 1761984000000
+    },
+    "progressUpdate": {
+      "completed": "2025-09-01T10:04:36.734Z",
+      "completedMillis": 1756721076734,
+      "next": "2025-09-15T07:00:00.000Z",
+      "nextMillis": 1757919600000
+    },
+    "misting": {
+      "completed": "2025-09-05T08:49:59.752Z",
+      "completedMillis": 1757062199752,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MnXlInaKZ63byFPvTIi6vM",
+  "slug": "alex-jobs",
+  "names": {
+    "custom": "Alex Jobs",
+    "scientific": "Dracaena angolensis"
+  },
+  "health": "fair",
+  "size": 30,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/XA_81uCpQgmLuLh2HsccAQ.webp",
+    "lastUpdated": "2025-08-19T11:16:51.328Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-05T08:05:11.715Z",
+      "completedMillis": 1757059511715,
+      "next": "2025-10-15T07:00:00.000Z",
+      "nextMillis": 1760511600000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-25T07:00:00.000Z",
+      "nextMillis": 1758783600000
+    },
+    "repotting": {
+      "completed": "2025-08-12T08:00:00.000Z",
+      "completedMillis": 1754985600000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-17T08:00:00.000Z",
+      "nextMillis": 1763366400000
+    },
+    "progressUpdate": {
+      "completed": "2025-08-19T11:18:16.307Z",
+      "completedMillis": 1755602296307,
+      "next": "2025-09-22T08:00:00.000Z",
+      "nextMillis": 1758528000000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
