@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:mMXlmBvCjfCTqRg3E2Px5c",
+  "slug": "lulu-lili",
+  "names": {
+    "custom": "Lulu Lili",
+    "scientific": "Chlorophytum comosum"
+  },
+  "health": "fair",
+  "size": 25,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/fHMivxTjRRmeWPyUL8Q3CQ.webp",
+    "lastUpdated": "2025-08-21T09:15:10.282Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 15,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-01T09:52:17.353Z",
+      "completedMillis": 1756720337353,
+      "next": "2025-09-23T07:00:00.000Z",
+      "nextMillis": 1758610800000
+    },
+    "fertilizing": {
+      "completed": "2025-09-11T13:11:21.492Z",
+      "completedMillis": 1757596281492,
+      "next": "2025-10-05T07:00:00.000Z",
+      "nextMillis": 1759647600000
+    },
+    "repotting": {
+      "completed": "2025-05-02T08:00:00.000Z",
+      "completedMillis": 1746172800000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-08-21T09:19:10.944Z",
+      "completedMillis": 1755767950944,
+      "next": "2025-09-10T08:00:00.000Z",
+      "nextMillis": 1757491200000
+    },
+    "misting": {
+      "completed": "2025-09-05T08:51:33.028Z",
+      "completedMillis": 1757062293028,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    }
+  }
+}
