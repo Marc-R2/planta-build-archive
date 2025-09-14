@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:J9l409QAVG0YPdjlMys9zp",
+  "slug": "kalanchoe-blossfeldiana-jlMys9zp",
+  "names": {
+    "custom": null,
+    "scientific": "Kalanchoe blossfeldiana"
+  },
+  "health": "good",
+  "size": 35,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/qA9R_bZ_QICopbxiEE_WFQ.webp",
+    "lastUpdated": "2025-08-10T11:43:54.113Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:hjJbXND9Tp4rSjV8VX8wm4",
+    "name": "Livingroom Workdesk",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-workdesk-V8VX8wm4"
+  },
+  "environment": {
+    "pot": {
+      "type": "potPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 12,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-03T07:09:34.418Z",
+      "completedMillis": 1756883374418,
+      "next": "2025-10-03T07:00:00.000Z",
+      "nextMillis": 1759474800000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-18T07:00:00.000Z",
+      "nextMillis": 1758178800000
+    },
+    "repotting": {
+      "completed": "2025-05-10T08:00:00.000Z",
+      "completedMillis": 1746864000000,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": "2025-09-05T08:29:51.921Z",
+      "completedMillis": 1757060991921,
+      "next": "2025-10-05T07:00:00.000Z",
+      "nextMillis": 1759647600000
+    },
+    "misting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    }
+  }
+}
