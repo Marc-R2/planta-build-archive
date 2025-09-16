@@ -1,0 +1,21 @@
+{
+  "name": "Planta Dashboard",
+  "short_name": "Planta",
+  "description": "Beautiful plant management dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/10b981/ffffff?text=🌱",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/10b981/ffffff?text=🌱",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
