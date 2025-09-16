@@ -1,0 +1,147 @@
+{
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MeigcJ8wEL5BQirGwlhYri",
+    "name": "Marcs-Room",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "marcs-room-rGwlhYri"
+  },
+  "plants": [
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:qtCcbGFTCQzmw31aeJJnwC",
+      "slug": "tradescantia-pallida-1aeJJnwC",
+      "names": {
+        "custom": null,
+        "scientific": "Tradescantia pallida"
+      },
+      "health": "good",
+      "size": 135,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/Cz7Mv2f3SfSNI1lIc8xtEA.webp",
+        "lastUpdated": "2025-08-07T09:44:42.680Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MeigcJ8wEL5BQirGwlhYri",
+        "name": "Marcs-Room",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "marcs-room-rGwlhYri"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "allPurposePottingMix",
+          "size": 10,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-27T11:05:23.500Z",
+          "completedMillis": 1756292723500,
+          "next": "2025-09-16T07:00:00.000Z",
+          "nextMillis": 1758006000000
+        },
+        "fertilizing": {
+          "completed": "2025-09-05T08:41:02.421Z",
+          "completedMillis": 1757061662421,
+          "next": "2025-09-27T07:00:00.000Z",
+          "nextMillis": 1758956400000
+        },
+        "repotting": {
+          "completed": "2021-10-27T08:00:00.000Z",
+          "completedMillis": 1635321600000,
+          "next": "2026-03-14T08:00:00.000Z",
+          "nextMillis": 1773475200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        },
+        "progressUpdate": {
+          "completed": "2025-08-30T08:12:15.049Z",
+          "completedMillis": 1756541535049,
+          "next": "2025-09-17T07:00:00.000Z",
+          "nextMillis": 1758092400000
+        },
+        "misting": {
+          "completed": "2025-09-08T07:14:04.042Z",
+          "completedMillis": 1757315644042,
+          "next": "2025-09-14T07:00:00.000Z",
+          "nextMillis": 1757833200000
+        }
+      }
+    },
+    {
+      "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:XmEWuQnJhpU5TNA7w7ct7S",
+      "slug": "aloe-vera-A7w7ct7S",
+      "names": {
+        "custom": null,
+        "scientific": "Aloe vera"
+      },
+      "health": null,
+      "size": 50,
+      "image": {
+        "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/H4472cnlSiOJx1hkVPe5zg.webp",
+        "lastUpdated": "2025-08-07T09:46:48.121Z"
+      },
+      "site": {
+        "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:MeigcJ8wEL5BQirGwlhYri",
+        "name": "Marcs-Room",
+        "hasGrowLight": null,
+        "activeGrowLightHours": null,
+        "slug": "marcs-room-rGwlhYri"
+      },
+      "environment": {
+        "pot": {
+          "type": "potPlastic",
+          "soil": "coconutCoirOrPeat",
+          "size": 15,
+          "hasDrainage": true
+        }
+      },
+      "actions": {
+        "watering": {
+          "completed": "2025-08-21T08:15:20.496Z",
+          "completedMillis": 1755764120496,
+          "next": "2025-09-18T08:00:00.000Z",
+          "nextMillis": 1758182400000
+        },
+        "fertilizing": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-10-16T08:00:00.000Z",
+          "nextMillis": 1760601600000
+        },
+        "repotting": {
+          "completed": "2024-08-07T08:00:00.000Z",
+          "completedMillis": 1723017600000,
+          "next": "2027-03-14T08:00:00.000Z",
+          "nextMillis": 1805011200000
+        },
+        "cleaning": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2026-02-03T08:00:00.000Z",
+          "nextMillis": 1770105600000
+        },
+        "progressUpdate": {
+          "completed": null,
+          "completedMillis": null,
+          "next": "2025-09-22T08:00:00.000Z",
+          "nextMillis": 1758528000000
+        },
+        "misting": {
+          "completed": null,
+          "completedMillis": null,
+          "next": null,
+          "nextMillis": null
+        }
+      }
+    }
+  ],
+  "plantCount": 2,
+  "lang": "elvish"
+}

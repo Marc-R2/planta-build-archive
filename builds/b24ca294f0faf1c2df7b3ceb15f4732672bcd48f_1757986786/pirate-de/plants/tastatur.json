@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:YK6QJUdNc8cj6J14pQrch8",
+  "slug": "tastatur",
+  "names": {
+    "custom": "Tastatur",
+    "scientific": "Lepidium sativum"
+  },
+  "health": null,
+  "size": null,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/UvjT2m8STDi33y-0WnZoJQ.webp",
+    "lastUpdated": "2025-08-28T15:44:04.597Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:to6999lzkowkxfh5YaTW5P",
+    "name": "Livingroom window",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-window-h5YaTW5P"
+  },
+  "environment": {
+    "pot": {
+      "type": "other",
+      "soil": null,
+      "size": null,
+      "hasDrainage": null
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-11T13:05:49.636Z",
+      "completedMillis": 1757595949636,
+      "next": "2025-09-16T07:00:00.000Z",
+      "nextMillis": 1758006000000
+    },
+    "fertilizing": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-21T07:00:00.000Z",
+      "nextMillis": 1758438000000
+    },
+    "repotting": {
+      "completed": "2025-08-21T07:00:00.000Z",
+      "completedMillis": 1755759600000,
+      "next": null,
+      "nextMillis": null
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": null,
+      "nextMillis": null
+    },
+    "progressUpdate": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    },
+    "misting": {
+      "completed": "2025-09-05T08:50:48.275Z",
+      "completedMillis": 1757062248275,
+      "next": "2025-09-11T07:00:00.000Z",
+      "nextMillis": 1757574000000
+    }
+  }
+}
