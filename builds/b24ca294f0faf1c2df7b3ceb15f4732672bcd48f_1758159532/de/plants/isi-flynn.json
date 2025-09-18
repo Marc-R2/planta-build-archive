@@ -1,0 +1,67 @@
+{
+  "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:s2P4CDbBTcfBbWUMqnhDtq",
+  "slug": "isi-flynn",
+  "names": {
+    "custom": "Isi Flynn",
+    "scientific": "Persea americana"
+  },
+  "health": "fair",
+  "size": 30,
+  "image": {
+    "url": "https://images.getplanta.com/v1/resize/0krW6VUPI3l1biwKgRBMGj-YsnWuYT4x-xU6Ff3E5B8/_tqUlIW3ScOYC_vg8GrBmw.webp",
+    "lastUpdated": "2025-08-23T15:16:15.058Z"
+  },
+  "site": {
+    "id": "YBN8Ybk8zAU7vhUkMEJBqSdmemv2:N6xDgnkZTFoxILAKx6N6Jk",
+    "name": "Livingroom TV",
+    "hasGrowLight": null,
+    "activeGrowLightHours": null,
+    "slug": "livingroom-tv-AKx6N6Jk"
+  },
+  "environment": {
+    "pot": {
+      "type": "potOriginalPlastic",
+      "soil": "coconutCoirOrPeat",
+      "size": 10,
+      "hasDrainage": true
+    }
+  },
+  "actions": {
+    "watering": {
+      "completed": "2025-09-03T07:10:36.890Z",
+      "completedMillis": 1756883436890,
+      "next": "2025-09-18T07:00:00.000Z",
+      "nextMillis": 1758178800000
+    },
+    "fertilizing": {
+      "completed": "2025-09-11T13:13:25.789Z",
+      "completedMillis": 1757596405789,
+      "next": "2025-09-25T07:00:00.000Z",
+      "nextMillis": 1758783600000
+    },
+    "repotting": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2026-03-14T08:00:00.000Z",
+      "nextMillis": 1773475200000
+    },
+    "cleaning": {
+      "completed": null,
+      "completedMillis": null,
+      "next": "2025-11-01T08:00:00.000Z",
+      "nextMillis": 1761984000000
+    },
+    "progressUpdate": {
+      "completed": "2025-09-06T09:40:36.976Z",
+      "completedMillis": 1757151636976,
+      "next": "2025-09-20T07:00:00.000Z",
+      "nextMillis": 1758351600000
+    },
+    "misting": {
+      "completed": "2025-09-09T07:05:35.273Z",
+      "completedMillis": 1757401535273,
+      "next": "2025-09-15T07:00:00.000Z",
+      "nextMillis": 1757919600000
+    }
+  }
+}
